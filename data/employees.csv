@@ -1,0 +1,1501 @@
+EmployeeID,Age,Department,JobRole,EducationLevel,EmploymentType,MonthlySalaryINR,YearsAtCompany,YearsInCurrentRole,Overtime,JobSatisfaction,PerformanceRating,CommuteDistanceKM,TrainingSessionsLastYear,Attrition
+EMP00001,21,Customer Support,Team Lead,Bachelor's,Contract,35833,3,3,No,1,2,33,7,No
+EMP00002,44,Finance,Financial Analyst,Master's,Contract,50583,5,3,No,4,3,14,4,No
+EMP00003,28,Finance,Financial Analyst,Master's,Full-time,54166,1,0,Yes,3,3,35,8,No
+EMP00004,26,Engineering,Software Engineer,Doctorate,Full-time,62750,0,0,Yes,2,4,12,5,No
+EMP00005,35,Engineering,QA Engineer,Diploma,Full-time,96750,7,1,No,4,4,22,6,No
+EMP00006,28,Sales,Sales Executive,Bachelor's,Full-time,43583,0,0,Yes,3,3,51,0,Yes
+EMP00007,29,Engineering,QA Engineer,Bachelor's,Full-time,83750,9,7,Yes,2,2,22,2,No
+EMP00008,41,Human Resources,HR Manager,Bachelor's,Full-time,46083,5,4,Yes,3,3,32,4,Yes
+EMP00009,23,Finance,Accountant,Bachelor's,Full-time,42666,6,4,No,2,3,36,3,No
+EMP00010,29,Customer Support,Team Lead,Doctorate,Contract,25083,3,3,No,1,4,3,7,No
+EMP00011,45,Sales,Sales Manager,Diploma,Full-time,40500,1,1,Yes,3,3,58,8,No
+EMP00012,43,Customer Support,Support Manager,Bachelor's,Full-time,45916,2,0,Yes,3,2,31,3,No
+EMP00013,23,Customer Support,Support Specialist,Diploma,Full-time,43833,8,5,No,2,3,48,7,No
+EMP00014,46,Human Resources,HR Manager,Diploma,Full-time,45000,3,2,Yes,2,4,45,3,No
+EMP00015,21,Engineering,QA Engineer,Master's,Full-time,47166,1,0,No,3,4,2,5,No
+EMP00016,34,Sales,Sales Executive,Bachelor's,Contract,42500,1,0,Yes,2,3,51,1,Yes
+EMP00017,39,Sales,Sales Executive,Doctorate,Full-time,63583,3,2,Yes,3,2,39,7,No
+EMP00018,28,Sales,Sales Manager,Doctorate,Full-time,45833,5,2,Yes,4,3,49,0,No
+EMP00019,34,Finance,Finance Manager,Doctorate,Full-time,52333,2,1,No,2,4,47,5,Yes
+EMP00020,25,Sales,Account Manager,Diploma,Full-time,35500,1,0,Yes,4,4,10,0,No
+EMP00021,41,Sales,Account Manager,Bachelor's,Full-time,65250,11,3,No,3,4,42,4,No
+EMP00022,41,Finance,Finance Manager,Master's,Full-time,67916,8,6,No,2,3,60,3,No
+EMP00023,56,Engineering,Data Analyst,Diploma,Full-time,84416,9,7,No,1,2,59,6,Yes
+EMP00024,46,Customer Support,Support Manager,Master's,Full-time,33833,1,0,Yes,3,3,9,5,No
+EMP00025,34,Human Resources,HR Executive,Master's,Full-time,36750,1,1,No,4,3,38,6,No
+EMP00026,49,Engineering,Engineering Manager,Diploma,Contract,60666,4,3,No,3,3,4,1,No
+EMP00027,21,Human Resources,HR Manager,Diploma,Full-time,39000,2,0,Yes,2,1,30,6,No
+EMP00028,35,Engineering,QA Engineer,Doctorate,Full-time,65500,11,8,No,3,4,45,5,No
+EMP00029,35,Finance,Finance Manager,Master's,Full-time,59083,7,5,Yes,3,4,1,0,No
+EMP00030,27,Human Resources,HR Manager,Bachelor's,Full-time,45083,0,0,No,2,4,17,5,Yes
+EMP00031,38,Engineering,Data Analyst,Master's,Full-time,51250,2,1,Yes,3,1,45,2,No
+EMP00032,27,Engineering,QA Engineer,Master's,Full-time,74583,4,3,No,1,3,16,3,No
+EMP00033,36,Human Resources,Recruiter,Master's,Contract,51333,5,4,Yes,3,3,35,6,No
+EMP00034,37,Finance,Accountant,Doctorate,Full-time,45333,8,4,Yes,3,4,45,0,No
+EMP00035,38,Customer Support,Support Manager,Bachelor's,Full-time,41750,2,1,No,2,2,52,7,No
+EMP00036,32,Customer Support,Team Lead,Bachelor's,Contract,28333,2,1,No,2,4,25,6,No
+EMP00037,28,Sales,Sales Manager,Doctorate,Full-time,52583,3,2,No,4,4,41,8,No
+EMP00038,28,Sales,Sales Manager,Doctorate,Full-time,42333,4,4,No,1,4,42,7,No
+EMP00039,23,Customer Support,Support Specialist,Bachelor's,Full-time,49083,5,0,No,3,3,21,5,No
+EMP00040,30,Engineering,Data Analyst,Doctorate,Full-time,75083,5,2,No,3,3,47,1,No
+EMP00041,38,Human Resources,HR Manager,Bachelor's,Full-time,41166,3,1,No,1,2,15,7,No
+EMP00042,32,Customer Support,Support Manager,Bachelor's,Full-time,39666,1,1,Yes,4,3,31,0,No
+EMP00043,21,Finance,Accountant,Doctorate,Full-time,61500,1,1,Yes,4,4,13,8,No
+EMP00044,30,Engineering,Engineering Manager,Diploma,Full-time,49250,3,0,No,2,3,51,7,No
+EMP00045,50,Customer Support,Support Manager,Master's,Contract,42583,4,3,No,3,3,41,7,No
+EMP00046,32,Sales,Sales Manager,Diploma,Full-time,48666,3,0,Yes,4,4,48,1,Yes
+EMP00047,26,Customer Support,Team Lead,Doctorate,Full-time,35666,6,5,Yes,3,3,19,0,No
+EMP00048,37,Customer Support,Team Lead,Diploma,Contract,24583,1,1,No,4,2,50,5,No
+EMP00049,43,Engineering,Software Engineer,Diploma,Full-time,83416,6,4,No,3,3,43,6,No
+EMP00050,37,Sales,Sales Manager,Bachelor's,Full-time,54500,2,2,Yes,4,3,52,6,No
+EMP00051,42,Sales,Account Manager,Doctorate,Full-time,49333,4,3,No,3,1,29,5,No
+EMP00052,21,Finance,Financial Analyst,Master's,Full-time,59583,5,4,Yes,3,4,9,1,No
+EMP00053,40,Engineering,Data Analyst,Bachelor's,Full-time,41583,2,0,Yes,1,3,35,0,Yes
+EMP00054,41,Engineering,Software Engineer,Diploma,Contract,71083,4,2,Yes,2,1,51,2,No
+EMP00055,33,Customer Support,Support Manager,Doctorate,Full-time,41583,3,0,Yes,2,2,47,8,Yes
+EMP00056,24,Finance,Accountant,Diploma,Full-time,81166,4,1,Yes,3,4,44,8,Yes
+EMP00057,21,Sales,Account Manager,Doctorate,Contract,62583,5,2,No,4,4,10,6,No
+EMP00058,34,Sales,Sales Executive,Diploma,Contract,56166,5,1,No,2,3,60,8,No
+EMP00059,35,Sales,Sales Manager,Doctorate,Full-time,47666,3,1,No,1,4,53,0,No
+EMP00060,27,Customer Support,Support Manager,Master's,Full-time,30500,2,1,No,4,3,1,2,No
+EMP00061,25,Customer Support,Team Lead,Doctorate,Full-time,50416,7,7,Yes,2,4,21,4,Yes
+EMP00062,27,Engineering,Software Engineer,Master's,Full-time,71583,8,6,No,2,2,55,6,No
+EMP00063,21,Finance,Accountant,Bachelor's,Contract,63750,1,1,No,4,1,39,8,Yes
+EMP00064,33,Engineering,Data Analyst,Bachelor's,Full-time,69333,4,0,Yes,2,3,37,8,No
+EMP00065,23,Human Resources,HR Executive,Doctorate,Full-time,44916,5,1,No,3,3,25,3,No
+EMP00066,33,Engineering,Software Engineer,Doctorate,Full-time,59166,0,0,No,2,3,26,7,Yes
+EMP00067,42,Human Resources,HR Executive,Master's,Full-time,68666,6,0,Yes,3,3,39,4,Yes
+EMP00068,39,Customer Support,Team Lead,Master's,Contract,32583,4,4,Yes,1,3,29,0,No
+EMP00069,34,Customer Support,Team Lead,Doctorate,Full-time,40916,9,4,No,3,1,24,8,No
+EMP00070,38,Human Resources,Recruiter,Bachelor's,Full-time,41500,1,1,No,2,2,48,7,No
+EMP00071,45,Human Resources,HR Executive,Master's,Full-time,52833,8,0,No,4,4,42,5,No
+EMP00072,30,Human Resources,HR Manager,Master's,Full-time,36583,4,1,No,3,3,46,0,No
+EMP00073,21,Sales,Sales Manager,Bachelor's,Full-time,49083,7,2,No,3,3,42,0,No
+EMP00074,35,Finance,Finance Manager,Doctorate,Full-time,56083,6,4,No,2,3,6,6,No
+EMP00075,37,Customer Support,Support Manager,Bachelor's,Full-time,36416,2,1,Yes,2,4,26,8,No
+EMP00076,37,Human Resources,Recruiter,Master's,Contract,56500,2,0,No,2,3,47,1,Yes
+EMP00077,28,Finance,Accountant,Diploma,Full-time,58250,2,2,Yes,3,3,25,2,No
+EMP00078,44,Sales,Sales Executive,Diploma,Full-time,60333,7,2,No,2,4,20,8,No
+EMP00079,32,Customer Support,Team Lead,Doctorate,Full-time,36333,3,1,Yes,3,3,54,4,Yes
+EMP00080,35,Engineering,Software Engineer,Doctorate,Full-time,88416,10,0,Yes,1,3,50,6,Yes
+EMP00081,38,Engineering,Engineering Manager,Bachelor's,Full-time,58500,3,2,No,2,4,60,8,No
+EMP00082,29,Human Resources,Recruiter,Doctorate,Full-time,39916,1,1,Yes,3,4,24,4,No
+EMP00083,31,Finance,Accountant,Master's,Contract,67333,6,3,Yes,3,3,3,8,No
+EMP00084,42,Human Resources,HR Executive,Doctorate,Full-time,53833,2,1,No,4,3,42,8,No
+EMP00085,39,Customer Support,Team Lead,Bachelor's,Full-time,44166,10,6,No,4,3,3,7,No
+EMP00086,36,Finance,Financial Analyst,Master's,Full-time,46750,3,2,Yes,4,2,21,2,No
+EMP00087,27,Human Resources,HR Executive,Master's,Full-time,40750,4,0,No,3,3,9,4,No
+EMP00088,37,Finance,Finance Manager,Doctorate,Contract,81666,12,0,No,2,3,39,1,No
+EMP00089,35,Engineering,Software Engineer,Diploma,Contract,80416,3,3,No,4,3,7,8,No
+EMP00090,39,Sales,Account Manager,Bachelor's,Contract,48166,3,3,Yes,3,2,3,5,No
+EMP00091,29,Finance,Accountant,Diploma,Full-time,60833,2,1,No,3,2,51,6,No
+EMP00092,22,Sales,Sales Executive,Doctorate,Full-time,50916,0,0,No,4,3,32,2,Yes
+EMP00093,43,Customer Support,Support Specialist,Doctorate,Full-time,38250,2,0,No,3,3,37,6,No
+EMP00094,40,Human Resources,HR Manager,Doctorate,Contract,36583,1,1,No,2,3,23,8,No
+EMP00095,27,Customer Support,Support Manager,Bachelor's,Full-time,40250,3,3,No,3,4,36,7,No
+EMP00096,40,Customer Support,Support Manager,Diploma,Full-time,39166,4,0,No,4,2,44,6,No
+EMP00097,29,Finance,Accountant,Master's,Contract,50666,3,3,No,4,3,37,7,No
+EMP00098,30,Customer Support,Team Lead,Bachelor's,Full-time,45250,5,4,No,3,4,16,8,No
+EMP00099,21,Finance,Accountant,Bachelor's,Full-time,69666,4,0,No,4,2,48,4,No
+EMP00100,38,Engineering,Software Engineer,Doctorate,Full-time,72000,9,0,No,3,3,34,0,No
+EMP00101,33,Customer Support,Team Lead,Doctorate,Full-time,40833,5,5,No,4,3,50,6,No
+EMP00102,25,Customer Support,Support Specialist,Bachelor's,Contract,35666,4,3,No,3,3,46,5,No
+EMP00103,22,Human Resources,Recruiter,Bachelor's,Full-time,50166,3,0,No,1,2,16,7,No
+EMP00104,23,Sales,Account Manager,Master's,Full-time,37083,4,3,No,4,3,33,2,No
+EMP00105,36,Human Resources,HR Executive,Doctorate,Full-time,44166,2,2,No,4,3,47,6,No
+EMP00106,37,Customer Support,Team Lead,Diploma,Contract,45416,11,1,No,1,4,10,5,No
+EMP00107,21,Finance,Finance Manager,Diploma,Full-time,68166,2,0,Yes,4,1,26,5,No
+EMP00108,33,Finance,Finance Manager,Diploma,Full-time,51083,4,0,Yes,3,3,42,8,No
+EMP00109,26,Sales,Sales Executive,Doctorate,Full-time,27500,4,1,Yes,2,3,58,8,No
+EMP00110,39,Sales,Sales Executive,Bachelor's,Full-time,46750,1,1,Yes,3,3,57,1,No
+EMP00111,37,Sales,Sales Executive,Diploma,Full-time,32166,1,0,Yes,3,2,3,1,No
+EMP00112,44,Human Resources,HR Executive,Doctorate,Full-time,61333,9,1,No,1,3,59,6,No
+EMP00113,34,Finance,Accountant,Master's,Full-time,48333,0,0,Yes,4,3,11,7,No
+EMP00114,49,Finance,Finance Manager,Bachelor's,Full-time,53666,6,5,No,4,2,4,8,No
+EMP00115,44,Engineering,Data Analyst,Diploma,Full-time,66916,2,0,No,4,1,21,3,No
+EMP00116,21,Human Resources,Recruiter,Diploma,Contract,33833,1,0,No,3,1,34,0,No
+EMP00117,31,Human Resources,HR Manager,Doctorate,Full-time,32083,3,3,No,3,4,31,4,No
+EMP00118,41,Human Resources,HR Manager,Master's,Contract,51416,7,4,No,3,4,56,1,No
+EMP00119,37,Sales,Sales Executive,Master's,Full-time,64250,16,2,No,2,1,21,2,No
+EMP00120,30,Human Resources,HR Manager,Diploma,Full-time,44750,2,2,Yes,4,3,17,2,No
+EMP00121,54,Human Resources,HR Manager,Bachelor's,Full-time,42833,4,4,No,4,3,43,1,No
+EMP00122,31,Engineering,Software Engineer,Master's,Full-time,75083,4,4,Yes,3,1,13,3,No
+EMP00123,40,Human Resources,HR Executive,Master's,Full-time,47083,2,0,Yes,3,1,7,6,No
+EMP00124,37,Engineering,Data Analyst,Bachelor's,Full-time,55916,0,0,Yes,4,3,41,5,No
+EMP00125,26,Sales,Account Manager,Doctorate,Full-time,48916,9,5,No,3,1,4,6,No
+EMP00126,41,Finance,Financial Analyst,Bachelor's,Full-time,41250,2,1,No,3,1,28,7,No
+EMP00127,37,Engineering,Data Analyst,Master's,Full-time,61916,2,2,Yes,3,4,19,0,No
+EMP00128,38,Engineering,QA Engineer,Diploma,Full-time,78750,2,0,No,3,2,51,6,No
+EMP00129,49,Sales,Sales Manager,Master's,Full-time,33000,1,1,No,4,4,11,8,No
+EMP00130,30,Customer Support,Team Lead,Diploma,Full-time,45416,10,2,No,2,3,16,5,No
+EMP00131,31,Human Resources,HR Manager,Bachelor's,Full-time,34166,3,0,No,4,2,44,4,No
+EMP00132,22,Sales,Sales Manager,Doctorate,Full-time,50833,4,4,Yes,4,2,13,2,No
+EMP00133,27,Human Resources,HR Manager,Doctorate,Full-time,44666,4,0,No,1,1,52,5,No
+EMP00134,38,Finance,Finance Manager,Doctorate,Full-time,66500,8,3,No,4,3,19,7,No
+EMP00135,22,Finance,Accountant,Doctorate,Full-time,74333,14,10,No,1,3,11,7,Yes
+EMP00136,41,Customer Support,Support Manager,Bachelor's,Full-time,36583,2,2,No,2,4,57,1,No
+EMP00137,43,Finance,Finance Manager,Master's,Full-time,54500,4,0,Yes,3,1,55,7,No
+EMP00138,21,Sales,Sales Executive,Bachelor's,Full-time,51000,5,2,No,3,3,39,8,No
+EMP00139,42,Human Resources,HR Manager,Bachelor's,Full-time,35416,2,2,No,1,3,58,7,No
+EMP00140,26,Human Resources,Recruiter,Doctorate,Full-time,52000,3,1,No,4,3,15,0,No
+EMP00141,28,Sales,Sales Manager,Diploma,Full-time,39333,0,0,No,2,3,16,5,No
+EMP00142,31,Customer Support,Team Lead,Master's,Full-time,44416,6,4,Yes,3,1,2,5,No
+EMP00143,37,Sales,Account Manager,Diploma,Full-time,38416,1,0,No,3,1,44,6,Yes
+EMP00144,37,Customer Support,Team Lead,Bachelor's,Contract,38250,6,0,No,3,3,24,3,No
+EMP00145,33,Sales,Sales Executive,Doctorate,Full-time,48416,4,1,Yes,2,3,1,4,No
+EMP00146,24,Finance,Accountant,Doctorate,Full-time,61416,9,9,No,2,4,56,5,No
+EMP00147,29,Human Resources,HR Manager,Master's,Full-time,46666,3,0,No,3,2,37,3,Yes
+EMP00148,21,Customer Support,Team Lead,Master's,Full-time,32333,2,0,No,4,2,2,3,No
+EMP00149,39,Sales,Sales Manager,Diploma,Contract,57333,2,0,No,3,4,34,1,No
+EMP00150,47,Sales,Sales Executive,Diploma,Full-time,54166,5,5,No,3,2,5,0,No
+EMP00151,46,Customer Support,Team Lead,Doctorate,Contract,40416,2,2,Yes,1,3,7,5,No
+EMP00152,23,Finance,Financial Analyst,Master's,Contract,63583,3,3,No,2,3,9,3,No
+EMP00153,35,Engineering,Engineering Manager,Master's,Contract,56416,1,1,No,3,2,50,6,No
+EMP00154,38,Finance,Finance Manager,Bachelor's,Full-time,64500,3,3,No,2,3,46,0,No
+EMP00155,21,Human Resources,HR Executive,Doctorate,Contract,46916,0,0,No,3,2,23,8,No
+EMP00156,28,Customer Support,Support Manager,Diploma,Contract,32500,2,1,No,3,4,49,1,Yes
+EMP00157,29,Finance,Financial Analyst,Bachelor's,Full-time,52833,3,2,Yes,4,4,52,8,No
+EMP00158,37,Engineering,Engineering Manager,Master's,Contract,53250,4,4,No,4,2,29,7,No
+EMP00159,33,Customer Support,Support Manager,Master's,Full-time,34166,1,1,Yes,2,1,20,5,No
+EMP00160,42,Engineering,QA Engineer,Bachelor's,Full-time,47833,6,5,No,3,2,39,8,No
+EMP00161,21,Customer Support,Team Lead,Doctorate,Contract,34416,1,0,No,4,4,41,3,No
+EMP00162,27,Finance,Financial Analyst,Bachelor's,Contract,67666,2,1,No,4,3,56,8,No
+EMP00163,21,Sales,Sales Executive,Bachelor's,Full-time,42333,4,1,No,2,3,19,6,No
+EMP00164,36,Sales,Account Manager,Doctorate,Full-time,58666,6,4,No,4,2,9,8,No
+EMP00165,44,Customer Support,Support Specialist,Master's,Full-time,32416,5,2,No,3,2,49,1,No
+EMP00166,27,Sales,Sales Manager,Diploma,Contract,41500,2,1,Yes,3,4,1,0,No
+EMP00167,47,Human Resources,HR Executive,Doctorate,Full-time,40250,2,1,Yes,1,3,45,8,No
+EMP00168,23,Sales,Account Manager,Doctorate,Full-time,61916,8,3,No,3,2,11,8,No
+EMP00169,24,Sales,Sales Executive,Master's,Contract,53666,9,8,No,2,3,5,6,No
+EMP00170,26,Human Resources,HR Executive,Bachelor's,Full-time,51333,5,2,Yes,4,4,11,7,No
+EMP00171,32,Sales,Account Manager,Bachelor's,Contract,33333,4,4,Yes,3,3,30,2,Yes
+EMP00172,35,Sales,Account Manager,Doctorate,Full-time,56750,4,2,No,2,3,37,4,No
+EMP00173,24,Customer Support,Team Lead,Diploma,Full-time,35500,5,2,No,1,3,57,3,No
+EMP00174,35,Sales,Sales Manager,Doctorate,Full-time,41916,3,2,Yes,1,2,35,5,No
+EMP00175,35,Customer Support,Support Specialist,Master's,Contract,50666,7,2,No,3,3,15,4,No
+EMP00176,32,Human Resources,HR Manager,Master's,Contract,45750,5,2,No,2,2,50,5,No
+EMP00177,34,Human Resources,HR Executive,Bachelor's,Full-time,33583,1,1,No,3,3,53,6,No
+EMP00178,22,Customer Support,Support Manager,Master's,Full-time,47833,14,2,Yes,4,2,7,7,No
+EMP00179,36,Engineering,QA Engineer,Doctorate,Full-time,65083,3,0,No,2,2,7,3,No
+EMP00180,39,Customer Support,Support Specialist,Diploma,Contract,33000,5,0,No,3,2,38,4,Yes
+EMP00181,38,Engineering,Data Analyst,Diploma,Full-time,46583,2,1,Yes,2,2,7,5,No
+EMP00182,35,Customer Support,Support Manager,Diploma,Full-time,34166,2,2,No,4,4,27,4,No
+EMP00183,39,Finance,Accountant,Doctorate,Full-time,54250,5,4,No,4,3,27,1,No
+EMP00184,47,Finance,Financial Analyst,Master's,Full-time,63166,3,2,No,4,1,20,5,No
+EMP00185,45,Human Resources,HR Manager,Bachelor's,Contract,46250,3,1,Yes,4,2,14,6,No
+EMP00186,32,Sales,Account Manager,Master's,Contract,46583,2,0,No,4,2,23,2,No
+EMP00187,24,Engineering,Engineering Manager,Bachelor's,Contract,78166,7,0,No,2,2,54,4,No
+EMP00188,28,Sales,Sales Manager,Master's,Full-time,51500,4,4,Yes,3,3,11,8,No
+EMP00189,30,Human Resources,HR Executive,Doctorate,Contract,46416,1,1,Yes,4,2,14,4,No
+EMP00190,49,Human Resources,HR Manager,Diploma,Full-time,56083,11,8,No,4,1,32,8,No
+EMP00191,37,Sales,Sales Executive,Bachelor's,Full-time,44666,2,1,No,4,3,59,0,No
+EMP00192,45,Sales,Sales Manager,Master's,Full-time,57500,7,7,No,4,4,47,7,No
+EMP00193,40,Customer Support,Team Lead,Bachelor's,Full-time,40333,2,1,Yes,4,3,33,8,No
+EMP00194,41,Sales,Account Manager,Bachelor's,Full-time,60083,4,2,No,4,2,55,8,No
+EMP00195,40,Human Resources,HR Manager,Diploma,Contract,69916,11,4,No,4,3,2,0,No
+EMP00196,33,Engineering,Data Analyst,Diploma,Full-time,66583,5,3,No,3,3,40,8,No
+EMP00197,38,Customer Support,Support Specialist,Master's,Full-time,34000,2,2,No,3,3,24,1,No
+EMP00198,35,Engineering,Engineering Manager,Doctorate,Full-time,68500,1,0,No,1,4,10,0,No
+EMP00199,30,Customer Support,Support Manager,Bachelor's,Contract,36250,5,5,Yes,3,2,35,1,No
+EMP00200,46,Customer Support,Team Lead,Diploma,Contract,47833,3,1,No,4,1,55,5,No
+EMP00201,32,Finance,Finance Manager,Doctorate,Full-time,61916,2,0,No,3,4,11,3,No
+EMP00202,32,Human Resources,HR Executive,Diploma,Full-time,64000,1,0,No,2,4,19,4,No
+EMP00203,54,Sales,Sales Manager,Diploma,Contract,43000,2,1,Yes,4,3,36,2,No
+EMP00204,35,Engineering,Software Engineer,Master's,Full-time,57416,1,1,No,3,3,4,7,No
+EMP00205,45,Engineering,Engineering Manager,Diploma,Contract,65750,1,1,No,2,3,39,7,No
+EMP00206,34,Finance,Finance Manager,Diploma,Full-time,55166,2,0,No,3,3,24,6,No
+EMP00207,24,Customer Support,Support Manager,Doctorate,Full-time,43583,6,0,No,3,3,15,0,No
+EMP00208,52,Customer Support,Support Specialist,Bachelor's,Full-time,44666,5,1,No,2,3,52,7,No
+EMP00209,26,Sales,Sales Manager,Bachelor's,Full-time,39250,4,2,Yes,3,4,1,4,No
+EMP00210,34,Customer Support,Team Lead,Bachelor's,Full-time,31750,2,1,No,4,3,2,8,No
+EMP00211,33,Customer Support,Support Manager,Doctorate,Contract,37750,3,1,No,3,3,51,8,No
+EMP00212,28,Finance,Finance Manager,Doctorate,Contract,68666,2,1,No,4,2,37,0,No
+EMP00213,25,Human Resources,HR Manager,Master's,Full-time,34250,3,0,Yes,4,3,19,6,No
+EMP00214,26,Sales,Account Manager,Diploma,Full-time,47250,4,3,No,1,2,60,6,No
+EMP00215,43,Engineering,QA Engineer,Diploma,Contract,94166,7,4,Yes,2,3,39,2,No
+EMP00216,21,Sales,Sales Manager,Doctorate,Full-time,42750,7,5,No,3,4,37,2,No
+EMP00217,32,Sales,Sales Manager,Master's,Full-time,36916,4,1,Yes,3,3,33,0,No
+EMP00218,31,Customer Support,Team Lead,Doctorate,Full-time,36333,10,3,No,1,2,25,7,No
+EMP00219,39,Human Resources,HR Manager,Diploma,Full-time,40333,3,0,Yes,3,3,27,0,No
+EMP00220,37,Finance,Financial Analyst,Bachelor's,Full-time,65583,5,1,Yes,3,3,24,4,No
+EMP00221,26,Customer Support,Team Lead,Doctorate,Full-time,35500,4,1,No,2,3,40,1,No
+EMP00222,25,Finance,Financial Analyst,Diploma,Contract,56333,8,3,No,4,3,42,0,No
+EMP00223,27,Customer Support,Support Manager,Doctorate,Full-time,42000,13,5,No,4,3,5,2,No
+EMP00224,27,Sales,Account Manager,Bachelor's,Full-time,41333,3,2,Yes,4,3,45,0,Yes
+EMP00225,35,Customer Support,Team Lead,Doctorate,Full-time,38000,13,4,No,3,3,60,7,No
+EMP00226,42,Engineering,Software Engineer,Doctorate,Contract,66750,3,2,No,2,3,11,2,No
+EMP00227,38,Human Resources,HR Manager,Bachelor's,Contract,32083,1,0,No,4,3,7,0,No
+EMP00228,43,Customer Support,Support Manager,Bachelor's,Contract,28666,3,0,Yes,3,3,41,5,No
+EMP00229,28,Sales,Sales Executive,Bachelor's,Full-time,44916,5,5,Yes,4,1,59,8,No
+EMP00230,36,Sales,Account Manager,Diploma,Full-time,44750,1,1,No,4,3,41,1,No
+EMP00231,32,Finance,Finance Manager,Diploma,Contract,59250,16,11,No,2,2,17,7,No
+EMP00232,28,Human Resources,Recruiter,Doctorate,Contract,38750,4,1,Yes,1,2,17,1,No
+EMP00233,38,Human Resources,HR Executive,Bachelor's,Full-time,43500,2,2,No,3,3,45,3,No
+EMP00234,43,Engineering,QA Engineer,Master's,Full-time,94416,10,1,No,3,1,24,1,No
+EMP00235,28,Human Resources,HR Manager,Bachelor's,Full-time,32500,1,0,No,2,4,1,4,No
+EMP00236,46,Finance,Financial Analyst,Diploma,Contract,47416,2,1,No,2,3,54,6,No
+EMP00237,23,Finance,Finance Manager,Master's,Full-time,54416,3,0,Yes,3,3,25,1,No
+EMP00238,38,Finance,Finance Manager,Bachelor's,Full-time,49583,4,1,No,1,2,15,6,No
+EMP00239,49,Finance,Finance Manager,Bachelor's,Contract,55833,2,2,No,1,3,28,5,No
+EMP00240,44,Finance,Accountant,Diploma,Full-time,67083,2,2,No,3,3,53,4,No
+EMP00241,36,Customer Support,Support Manager,Doctorate,Contract,46083,0,0,No,2,3,42,0,No
+EMP00242,38,Customer Support,Team Lead,Doctorate,Full-time,36166,0,0,Yes,3,3,10,5,No
+EMP00243,50,Human Resources,Recruiter,Master's,Full-time,51500,3,3,No,3,4,18,4,No
+EMP00244,25,Sales,Sales Executive,Diploma,Contract,52166,5,5,Yes,4,1,44,5,No
+EMP00245,30,Finance,Finance Manager,Doctorate,Full-time,41083,1,1,Yes,3,4,6,6,No
+EMP00246,33,Customer Support,Team Lead,Master's,Full-time,42916,6,5,Yes,3,4,10,1,No
+EMP00247,28,Engineering,Engineering Manager,Diploma,Full-time,89750,10,3,No,1,3,10,0,No
+EMP00248,37,Finance,Finance Manager,Diploma,Full-time,52333,4,3,No,3,3,40,3,No
+EMP00249,27,Customer Support,Support Manager,Bachelor's,Full-time,46083,3,3,No,2,3,5,3,No
+EMP00250,32,Customer Support,Team Lead,Doctorate,Full-time,41083,6,0,No,4,3,41,0,No
+EMP00251,29,Finance,Accountant,Diploma,Contract,57916,9,4,No,1,3,10,7,No
+EMP00252,46,Sales,Sales Executive,Diploma,Full-time,55000,9,1,No,3,1,42,0,No
+EMP00253,46,Human Resources,HR Executive,Bachelor's,Full-time,52666,7,2,No,4,3,56,8,No
+EMP00254,47,Engineering,Engineering Manager,Doctorate,Contract,52583,2,2,Yes,1,3,30,6,No
+EMP00255,22,Sales,Account Manager,Doctorate,Full-time,58166,2,2,Yes,4,4,23,5,No
+EMP00256,29,Customer Support,Support Manager,Doctorate,Full-time,28000,2,1,Yes,3,3,47,6,No
+EMP00257,32,Sales,Account Manager,Diploma,Contract,47833,1,0,No,3,1,2,5,No
+EMP00258,41,Sales,Sales Executive,Diploma,Full-time,61666,7,4,No,2,3,8,4,No
+EMP00259,39,Finance,Finance Manager,Master's,Full-time,74500,9,1,No,2,3,55,7,No
+EMP00260,31,Sales,Sales Manager,Bachelor's,Contract,38833,4,1,No,3,2,10,3,No
+EMP00261,48,Human Resources,Recruiter,Bachelor's,Full-time,44916,5,2,No,1,4,51,4,No
+EMP00262,24,Human Resources,HR Executive,Bachelor's,Full-time,53333,3,3,No,3,3,44,8,No
+EMP00263,34,Human Resources,HR Executive,Master's,Full-time,45500,1,1,No,1,3,6,0,Yes
+EMP00264,42,Finance,Financial Analyst,Doctorate,Contract,64000,8,1,No,1,1,26,6,No
+EMP00265,27,Finance,Finance Manager,Doctorate,Full-time,67750,3,2,No,4,3,8,3,No
+EMP00266,27,Customer Support,Support Specialist,Master's,Full-time,43416,10,4,Yes,3,2,43,7,No
+EMP00267,34,Engineering,Engineering Manager,Master's,Full-time,68500,1,1,No,3,2,37,7,No
+EMP00268,34,Engineering,Software Engineer,Bachelor's,Contract,72916,4,1,No,3,2,22,0,No
+EMP00269,34,Sales,Account Manager,Diploma,Full-time,57250,6,3,No,2,3,48,8,No
+EMP00270,31,Customer Support,Team Lead,Master's,Full-time,34250,3,2,No,4,2,46,1,Yes
+EMP00271,28,Engineering,Software Engineer,Master's,Full-time,65083,3,3,No,3,3,2,0,No
+EMP00272,39,Engineering,Data Analyst,Bachelor's,Full-time,77416,5,4,No,4,3,5,5,No
+EMP00273,26,Human Resources,Recruiter,Doctorate,Full-time,43000,2,2,Yes,3,2,4,5,No
+EMP00274,40,Engineering,Engineering Manager,Bachelor's,Full-time,56166,1,0,Yes,3,4,50,5,No
+EMP00275,33,Engineering,Engineering Manager,Doctorate,Full-time,69500,4,0,Yes,3,4,32,8,No
+EMP00276,21,Finance,Financial Analyst,Master's,Contract,64916,12,1,No,3,4,47,6,No
+EMP00277,36,Finance,Accountant,Bachelor's,Full-time,53333,4,1,No,2,4,54,2,No
+EMP00278,36,Finance,Financial Analyst,Doctorate,Full-time,61916,2,2,No,3,2,42,7,No
+EMP00279,40,Sales,Account Manager,Doctorate,Full-time,51750,1,0,Yes,4,1,41,8,No
+EMP00280,21,Sales,Account Manager,Bachelor's,Full-time,51833,1,0,No,3,2,31,8,No
+EMP00281,39,Sales,Account Manager,Diploma,Full-time,54000,3,3,Yes,3,2,39,7,No
+EMP00282,39,Finance,Finance Manager,Master's,Full-time,64000,2,0,No,3,2,57,3,No
+EMP00283,33,Customer Support,Support Specialist,Bachelor's,Full-time,36083,3,0,No,4,3,25,6,No
+EMP00284,21,Engineering,Engineering Manager,Diploma,Contract,64250,4,3,Yes,4,3,6,7,No
+EMP00285,21,Sales,Sales Manager,Diploma,Full-time,51750,8,0,Yes,3,3,52,4,No
+EMP00286,32,Engineering,QA Engineer,Master's,Full-time,83583,7,6,No,3,1,15,6,Yes
+EMP00287,27,Human Resources,HR Executive,Diploma,Contract,35583,3,1,No,3,2,9,3,No
+EMP00288,25,Human Resources,Recruiter,Master's,Full-time,38166,4,2,No,1,2,7,4,Yes
+EMP00289,37,Finance,Finance Manager,Doctorate,Full-time,49916,5,1,No,1,3,8,0,No
+EMP00290,39,Finance,Accountant,Master's,Contract,58750,3,0,Yes,4,2,34,1,Yes
+EMP00291,38,Human Resources,HR Manager,Bachelor's,Full-time,42166,3,1,No,4,1,39,4,No
+EMP00292,28,Human Resources,HR Manager,Diploma,Contract,46833,8,4,No,3,3,29,3,No
+EMP00293,21,Engineering,Software Engineer,Bachelor's,Full-time,66250,2,0,No,2,3,7,4,No
+EMP00294,30,Sales,Account Manager,Doctorate,Full-time,40916,4,2,No,4,2,47,7,No
+EMP00295,38,Customer Support,Team Lead,Master's,Full-time,39583,6,6,Yes,2,4,10,0,No
+EMP00296,43,Customer Support,Support Manager,Doctorate,Full-time,41083,4,1,No,4,3,46,6,No
+EMP00297,50,Finance,Finance Manager,Bachelor's,Full-time,48166,2,2,Yes,4,4,53,2,Yes
+EMP00298,33,Sales,Sales Manager,Diploma,Full-time,68500,9,1,No,2,3,42,6,No
+EMP00299,43,Sales,Account Manager,Diploma,Full-time,77166,5,1,No,1,3,40,7,No
+EMP00300,39,Engineering,Engineering Manager,Master's,Contract,58583,1,1,Yes,3,3,6,0,No
+EMP00301,36,Human Resources,HR Executive,Master's,Full-time,45916,7,5,No,2,4,22,8,No
+EMP00302,34,Sales,Sales Executive,Diploma,Full-time,68166,7,3,No,1,2,57,2,No
+EMP00303,41,Finance,Financial Analyst,Master's,Full-time,75333,6,6,No,4,3,50,0,No
+EMP00304,21,Human Resources,HR Executive,Diploma,Full-time,47500,1,0,Yes,3,3,44,2,No
+EMP00305,36,Customer Support,Support Specialist,Bachelor's,Full-time,42833,4,4,Yes,4,3,27,3,No
+EMP00306,36,Sales,Sales Manager,Diploma,Full-time,69333,5,3,No,2,2,24,1,No
+EMP00307,21,Engineering,Data Analyst,Master's,Contract,63416,1,1,No,4,3,36,5,No
+EMP00308,37,Sales,Account Manager,Bachelor's,Contract,51916,3,1,Yes,2,3,12,5,No
+EMP00309,31,Engineering,QA Engineer,Doctorate,Contract,81000,4,1,Yes,3,2,32,0,No
+EMP00310,35,Sales,Sales Executive,Master's,Full-time,52250,3,1,Yes,4,1,49,0,No
+EMP00311,31,Finance,Financial Analyst,Master's,Contract,71583,3,2,No,3,2,16,3,No
+EMP00312,42,Finance,Accountant,Bachelor's,Full-time,57583,3,3,No,4,3,55,0,No
+EMP00313,21,Finance,Finance Manager,Diploma,Full-time,55750,5,4,No,3,3,45,7,No
+EMP00314,33,Human Resources,HR Manager,Master's,Contract,52916,2,1,Yes,4,3,21,5,No
+EMP00315,36,Human Resources,Recruiter,Master's,Full-time,60000,7,6,No,3,3,43,5,Yes
+EMP00316,23,Sales,Account Manager,Doctorate,Full-time,66583,6,2,No,3,3,58,2,No
+EMP00317,33,Finance,Accountant,Diploma,Full-time,56166,3,3,No,3,3,46,4,No
+EMP00318,36,Sales,Sales Executive,Master's,Full-time,46416,5,4,No,3,3,46,7,No
+EMP00319,36,Customer Support,Team Lead,Diploma,Full-time,39083,6,4,No,4,3,37,3,No
+EMP00320,23,Sales,Account Manager,Doctorate,Full-time,57833,1,1,No,1,3,35,6,No
+EMP00321,32,Finance,Accountant,Doctorate,Full-time,52750,8,2,No,4,4,39,1,No
+EMP00322,32,Engineering,QA Engineer,Master's,Full-time,70250,9,9,No,2,2,60,6,No
+EMP00323,35,Customer Support,Support Manager,Bachelor's,Full-time,39583,4,4,No,1,4,34,8,Yes
+EMP00324,27,Finance,Accountant,Bachelor's,Full-time,57083,3,2,No,4,2,52,3,No
+EMP00325,31,Customer Support,Team Lead,Diploma,Full-time,29750,1,0,Yes,2,2,25,3,No
+EMP00326,21,Sales,Account Manager,Master's,Full-time,47250,1,1,No,3,2,15,4,No
+EMP00327,33,Sales,Account Manager,Master's,Full-time,56166,3,2,No,3,4,22,4,No
+EMP00328,26,Customer Support,Support Specialist,Master's,Full-time,28500,0,0,No,4,1,39,8,No
+EMP00329,49,Finance,Accountant,Diploma,Contract,59166,3,3,Yes,2,3,23,7,No
+EMP00330,23,Customer Support,Team Lead,Doctorate,Contract,41750,6,2,Yes,3,3,18,3,No
+EMP00331,36,Sales,Sales Manager,Bachelor's,Full-time,58916,5,4,Yes,1,3,29,8,Yes
+EMP00332,21,Finance,Accountant,Diploma,Contract,50000,4,1,Yes,3,2,53,3,No
+EMP00333,42,Human Resources,HR Manager,Diploma,Full-time,52000,3,2,Yes,3,4,46,3,No
+EMP00334,40,Customer Support,Support Specialist,Doctorate,Contract,43333,3,2,Yes,3,3,40,2,No
+EMP00335,46,Engineering,QA Engineer,Bachelor's,Full-time,90666,15,5,No,2,3,7,8,No
+EMP00336,24,Sales,Sales Executive,Bachelor's,Full-time,38750,1,0,No,4,3,54,0,No
+EMP00337,39,Sales,Sales Manager,Master's,Full-time,41916,2,1,Yes,2,3,47,2,No
+EMP00338,38,Engineering,Engineering Manager,Bachelor's,Full-time,79750,5,4,No,3,3,42,1,No
+EMP00339,40,Customer Support,Support Manager,Bachelor's,Full-time,44500,13,7,No,3,4,28,3,No
+EMP00340,34,Engineering,Engineering Manager,Diploma,Full-time,73500,10,7,Yes,4,3,3,5,No
+EMP00341,41,Sales,Account Manager,Diploma,Full-time,40250,2,1,No,1,3,46,8,No
+EMP00342,38,Customer Support,Support Specialist,Doctorate,Contract,32666,10,9,No,3,4,13,3,Yes
+EMP00343,30,Finance,Accountant,Diploma,Full-time,37750,3,0,Yes,4,2,18,7,No
+EMP00344,27,Engineering,Software Engineer,Master's,Contract,64416,2,1,No,3,2,43,3,No
+EMP00345,36,Customer Support,Support Manager,Doctorate,Full-time,26000,2,0,Yes,1,3,46,8,No
+EMP00346,39,Engineering,QA Engineer,Diploma,Full-time,67916,2,0,No,3,4,7,1,No
+EMP00347,26,Sales,Sales Manager,Doctorate,Full-time,51500,6,1,Yes,2,3,47,6,No
+EMP00348,32,Engineering,Engineering Manager,Doctorate,Contract,71416,2,0,Yes,4,3,37,0,No
+EMP00349,30,Human Resources,Recruiter,Bachelor's,Full-time,37000,4,2,No,1,1,47,2,No
+EMP00350,28,Engineering,Data Analyst,Bachelor's,Full-time,94833,15,8,No,2,2,47,5,No
+EMP00351,24,Finance,Finance Manager,Diploma,Full-time,45166,0,0,Yes,4,3,19,4,No
+EMP00352,30,Sales,Sales Executive,Doctorate,Contract,55000,8,5,Yes,3,4,56,2,No
+EMP00353,33,Customer Support,Support Specialist,Diploma,Full-time,28166,1,0,No,3,2,60,6,Yes
+EMP00354,45,Sales,Sales Executive,Doctorate,Full-time,56333,1,1,Yes,3,3,50,1,No
+EMP00355,37,Human Resources,HR Executive,Doctorate,Full-time,51166,3,1,No,1,3,55,0,No
+EMP00356,37,Finance,Financial Analyst,Diploma,Contract,63250,3,1,No,3,4,8,7,No
+EMP00357,55,Sales,Sales Manager,Diploma,Full-time,51666,2,2,No,3,3,60,4,No
+EMP00358,32,Engineering,QA Engineer,Doctorate,Full-time,81666,11,1,Yes,3,1,34,8,No
+EMP00359,32,Customer Support,Team Lead,Master's,Full-time,31250,1,0,No,3,3,56,2,No
+EMP00360,23,Engineering,Engineering Manager,Doctorate,Full-time,59583,0,0,No,2,2,31,3,Yes
+EMP00361,30,Engineering,Data Analyst,Diploma,Contract,107750,11,8,No,3,4,52,3,No
+EMP00362,31,Engineering,QA Engineer,Bachelor's,Full-time,72666,6,3,Yes,4,1,3,7,No
+EMP00363,35,Finance,Accountant,Bachelor's,Full-time,54083,2,2,No,3,2,58,6,Yes
+EMP00364,39,Customer Support,Team Lead,Diploma,Full-time,37583,7,5,No,4,3,46,2,No
+EMP00365,46,Finance,Financial Analyst,Doctorate,Full-time,43416,1,1,No,2,4,52,4,Yes
+EMP00366,39,Customer Support,Support Specialist,Master's,Full-time,36583,5,0,No,3,4,18,2,No
+EMP00367,29,Sales,Sales Executive,Diploma,Contract,47416,2,2,No,3,3,58,3,No
+EMP00368,29,Finance,Finance Manager,Doctorate,Full-time,35333,1,1,Yes,1,3,15,0,No
+EMP00369,43,Engineering,Data Analyst,Bachelor's,Full-time,87416,7,3,No,3,2,26,3,No
+EMP00370,27,Customer Support,Support Specialist,Doctorate,Full-time,48750,14,6,No,2,4,28,4,No
+EMP00371,35,Engineering,Engineering Manager,Doctorate,Full-time,57916,0,0,No,2,4,32,4,No
+EMP00372,32,Engineering,Software Engineer,Doctorate,Full-time,67916,6,1,Yes,4,3,41,0,No
+EMP00373,49,Sales,Sales Manager,Doctorate,Contract,51250,1,0,No,3,3,47,0,No
+EMP00374,25,Human Resources,HR Manager,Master's,Contract,59583,7,2,Yes,3,3,29,4,No
+EMP00375,38,Finance,Finance Manager,Doctorate,Full-time,68333,13,4,No,3,2,20,7,Yes
+EMP00376,33,Human Resources,Recruiter,Bachelor's,Full-time,53416,6,1,No,3,3,33,3,No
+EMP00377,44,Human Resources,HR Executive,Master's,Full-time,46916,2,0,No,2,3,31,7,No
+EMP00378,32,Human Resources,HR Manager,Diploma,Contract,50916,3,2,Yes,4,2,51,4,No
+EMP00379,39,Engineering,QA Engineer,Master's,Contract,69250,2,0,Yes,4,3,46,3,No
+EMP00380,37,Human Resources,HR Manager,Doctorate,Full-time,45083,1,1,Yes,3,4,26,1,No
+EMP00381,21,Customer Support,Team Lead,Diploma,Full-time,40416,2,0,No,3,2,51,2,No
+EMP00382,41,Customer Support,Team Lead,Bachelor's,Full-time,59250,15,1,No,4,3,29,3,No
+EMP00383,48,Human Resources,HR Executive,Master's,Contract,48833,6,5,No,3,4,53,8,No
+EMP00384,34,Finance,Finance Manager,Master's,Full-time,47000,1,0,No,3,3,60,5,No
+EMP00385,30,Finance,Accountant,Bachelor's,Full-time,58666,5,1,Yes,3,2,24,3,No
+EMP00386,34,Human Resources,HR Executive,Doctorate,Full-time,37416,6,0,No,4,3,23,5,No
+EMP00387,46,Sales,Sales Executive,Bachelor's,Full-time,63583,8,7,No,3,3,43,8,No
+EMP00388,38,Sales,Sales Manager,Bachelor's,Full-time,41833,0,0,Yes,4,3,11,3,Yes
+EMP00389,37,Engineering,Engineering Manager,Bachelor's,Full-time,76333,8,1,Yes,4,3,29,6,No
+EMP00390,25,Customer Support,Support Specialist,Doctorate,Contract,43750,5,3,Yes,3,2,31,6,No
+EMP00391,28,Finance,Accountant,Bachelor's,Contract,44166,2,0,No,2,2,31,3,Yes
+EMP00392,34,Finance,Financial Analyst,Bachelor's,Full-time,52500,4,4,Yes,3,4,43,8,No
+EMP00393,25,Sales,Account Manager,Doctorate,Contract,46666,3,2,No,4,4,21,8,No
+EMP00394,32,Finance,Accountant,Master's,Full-time,47250,3,1,No,4,2,42,8,No
+EMP00395,36,Human Resources,HR Executive,Bachelor's,Full-time,53000,0,0,Yes,3,3,19,6,No
+EMP00396,26,Engineering,QA Engineer,Master's,Full-time,56416,7,0,No,4,3,47,2,No
+EMP00397,37,Finance,Finance Manager,Master's,Full-time,77166,11,9,Yes,3,4,1,0,No
+EMP00398,40,Customer Support,Support Specialist,Bachelor's,Contract,30166,4,2,Yes,3,3,8,2,No
+EMP00399,29,Customer Support,Support Specialist,Bachelor's,Full-time,40166,3,2,No,4,2,43,4,No
+EMP00400,33,Finance,Finance Manager,Diploma,Full-time,69666,11,4,No,4,2,40,3,No
+EMP00401,32,Finance,Financial Analyst,Doctorate,Full-time,58583,2,2,No,4,4,13,3,No
+EMP00402,37,Engineering,QA Engineer,Doctorate,Full-time,54916,3,3,Yes,3,3,20,2,No
+EMP00403,43,Customer Support,Support Specialist,Master's,Full-time,35750,6,0,No,2,1,9,6,No
+EMP00404,38,Human Resources,HR Executive,Master's,Contract,48250,4,1,Yes,3,4,60,7,No
+EMP00405,43,Finance,Finance Manager,Bachelor's,Full-time,54750,2,1,Yes,4,4,44,1,No
+EMP00406,40,Sales,Sales Manager,Diploma,Full-time,53500,4,4,No,4,3,7,3,No
+EMP00407,24,Sales,Sales Executive,Master's,Full-time,27416,2,2,No,1,4,25,6,No
+EMP00408,33,Finance,Accountant,Bachelor's,Full-time,65333,7,7,No,1,4,53,6,No
+EMP00409,42,Sales,Sales Manager,Doctorate,Full-time,51666,1,0,No,2,3,60,1,Yes
+EMP00410,24,Engineering,Software Engineer,Doctorate,Full-time,72000,4,1,No,2,3,22,7,No
+EMP00411,21,Engineering,Data Analyst,Bachelor's,Contract,78416,1,1,Yes,3,3,4,4,No
+EMP00412,28,Human Resources,HR Manager,Master's,Full-time,44833,2,0,Yes,4,4,51,3,No
+EMP00413,46,Finance,Accountant,Doctorate,Contract,44416,4,4,Yes,2,3,59,4,Yes
+EMP00414,34,Engineering,QA Engineer,Master's,Full-time,88166,7,6,No,3,2,10,1,No
+EMP00415,35,Customer Support,Team Lead,Diploma,Full-time,41333,10,7,Yes,3,2,10,0,No
+EMP00416,21,Finance,Financial Analyst,Doctorate,Contract,44916,9,5,No,3,2,5,8,No
+EMP00417,37,Sales,Sales Executive,Bachelor's,Full-time,42416,6,6,No,4,3,30,1,No
+EMP00418,34,Sales,Account Manager,Master's,Full-time,58750,5,4,No,3,2,2,4,No
+EMP00419,50,Human Resources,Recruiter,Diploma,Full-time,43250,1,1,Yes,4,1,59,0,No
+EMP00420,36,Human Resources,HR Manager,Diploma,Full-time,40416,0,0,Yes,2,3,15,8,No
+EMP00421,34,Engineering,Software Engineer,Master's,Full-time,75666,2,2,No,4,2,32,8,No
+EMP00422,37,Sales,Sales Executive,Doctorate,Full-time,39583,6,0,Yes,3,3,56,6,Yes
+EMP00423,36,Engineering,QA Engineer,Master's,Contract,88333,5,1,No,3,3,19,3,No
+EMP00424,35,Customer Support,Team Lead,Diploma,Full-time,34000,3,1,No,3,1,52,6,No
+EMP00425,36,Engineering,Data Analyst,Doctorate,Full-time,67166,3,0,Yes,2,4,48,3,No
+EMP00426,38,Sales,Sales Manager,Bachelor's,Full-time,45833,2,1,Yes,3,3,13,3,No
+EMP00427,26,Finance,Finance Manager,Bachelor's,Full-time,40916,2,0,Yes,4,2,44,5,No
+EMP00428,42,Engineering,QA Engineer,Bachelor's,Contract,61000,3,2,Yes,4,4,49,2,No
+EMP00429,24,Human Resources,HR Manager,Doctorate,Contract,45416,0,0,Yes,3,3,1,8,No
+EMP00430,31,Human Resources,HR Executive,Diploma,Contract,42000,8,6,No,1,3,55,2,No
+EMP00431,43,Customer Support,Support Specialist,Doctorate,Full-time,41333,7,0,Yes,3,4,1,7,No
+EMP00432,32,Sales,Sales Executive,Doctorate,Full-time,28666,2,0,Yes,4,2,55,7,No
+EMP00433,32,Customer Support,Support Manager,Bachelor's,Full-time,22333,4,3,No,2,1,54,1,No
+EMP00434,33,Engineering,Data Analyst,Doctorate,Contract,74333,8,8,No,1,2,45,5,Yes
+EMP00435,38,Customer Support,Team Lead,Doctorate,Full-time,34416,4,1,Yes,4,3,18,0,Yes
+EMP00436,32,Finance,Financial Analyst,Diploma,Full-time,49083,2,1,No,1,3,48,2,No
+EMP00437,40,Finance,Financial Analyst,Master's,Contract,59750,2,1,No,3,3,11,3,Yes
+EMP00438,32,Customer Support,Support Manager,Bachelor's,Contract,28000,3,0,Yes,4,4,56,8,Yes
+EMP00439,43,Human Resources,Recruiter,Diploma,Full-time,58000,5,1,No,4,3,60,4,No
+EMP00440,29,Engineering,Software Engineer,Bachelor's,Full-time,54916,1,1,Yes,3,3,60,2,No
+EMP00441,25,Customer Support,Team Lead,Diploma,Full-time,34750,5,5,No,3,2,40,7,No
+EMP00442,36,Customer Support,Support Manager,Diploma,Contract,46083,4,0,No,1,3,40,7,No
+EMP00443,33,Finance,Finance Manager,Diploma,Contract,49166,5,5,No,3,3,4,8,No
+EMP00444,40,Human Resources,HR Manager,Bachelor's,Full-time,54500,12,2,No,3,3,3,4,No
+EMP00445,26,Sales,Sales Executive,Master's,Full-time,45916,10,0,No,3,3,10,0,No
+EMP00446,36,Engineering,Data Analyst,Master's,Full-time,60750,2,0,No,1,3,37,8,No
+EMP00447,36,Human Resources,Recruiter,Diploma,Contract,41333,3,1,No,3,4,39,8,No
+EMP00448,29,Human Resources,Recruiter,Master's,Full-time,49416,4,2,No,4,2,12,7,No
+EMP00449,24,Customer Support,Support Manager,Master's,Full-time,35500,1,0,Yes,1,3,20,3,No
+EMP00450,37,Finance,Accountant,Master's,Full-time,65000,3,1,No,4,3,48,7,No
+EMP00451,37,Customer Support,Support Specialist,Bachelor's,Full-time,40500,0,0,No,4,3,27,1,No
+EMP00452,31,Sales,Account Manager,Master's,Contract,54333,3,0,No,3,2,14,4,No
+EMP00453,35,Engineering,Software Engineer,Doctorate,Full-time,53500,3,2,Yes,4,4,50,1,Yes
+EMP00454,44,Sales,Sales Executive,Doctorate,Contract,51916,5,5,Yes,1,2,8,1,No
+EMP00455,32,Sales,Sales Executive,Master's,Full-time,59166,6,1,No,3,3,54,0,No
+EMP00456,21,Sales,Account Manager,Doctorate,Contract,41250,4,1,No,3,3,39,3,No
+EMP00457,33,Human Resources,HR Executive,Master's,Full-time,49333,5,0,No,3,3,10,0,No
+EMP00458,40,Sales,Account Manager,Diploma,Full-time,33916,2,1,No,2,4,42,5,No
+EMP00459,34,Sales,Account Manager,Diploma,Full-time,57750,1,0,No,3,3,35,2,No
+EMP00460,42,Finance,Finance Manager,Doctorate,Full-time,60250,7,3,No,1,1,44,6,No
+EMP00461,44,Finance,Financial Analyst,Bachelor's,Contract,69500,7,0,Yes,4,3,49,4,No
+EMP00462,33,Human Resources,HR Executive,Doctorate,Full-time,44083,3,1,No,3,2,39,6,No
+EMP00463,32,Engineering,Software Engineer,Doctorate,Full-time,70916,2,2,No,4,3,51,2,No
+EMP00464,34,Finance,Finance Manager,Diploma,Contract,57250,2,1,Yes,4,2,55,3,No
+EMP00465,24,Engineering,QA Engineer,Diploma,Full-time,97166,11,0,Yes,2,3,48,3,No
+EMP00466,41,Customer Support,Support Specialist,Bachelor's,Contract,28833,7,1,No,3,2,34,1,No
+EMP00467,21,Engineering,Data Analyst,Bachelor's,Contract,70833,1,1,Yes,4,3,59,4,Yes
+EMP00468,24,Human Resources,HR Manager,Bachelor's,Full-time,41500,0,0,Yes,3,3,21,2,No
+EMP00469,22,Human Resources,Recruiter,Bachelor's,Full-time,39500,4,0,Yes,3,4,12,5,No
+EMP00470,30,Finance,Financial Analyst,Doctorate,Full-time,77083,6,6,Yes,3,4,7,7,No
+EMP00471,46,Customer Support,Support Specialist,Master's,Full-time,27666,1,1,Yes,3,4,17,1,No
+EMP00472,33,Finance,Financial Analyst,Doctorate,Contract,59000,3,0,No,3,1,46,5,No
+EMP00473,34,Human Resources,Recruiter,Master's,Full-time,48000,4,4,No,3,3,32,6,No
+EMP00474,40,Customer Support,Support Specialist,Bachelor's,Full-time,35333,6,5,No,3,3,59,6,No
+EMP00475,21,Sales,Sales Manager,Doctorate,Full-time,44583,3,3,No,4,2,57,0,No
+EMP00476,32,Sales,Sales Manager,Bachelor's,Full-time,25416,4,4,No,4,3,11,8,Yes
+EMP00477,27,Customer Support,Team Lead,Master's,Full-time,45750,6,2,No,3,4,20,5,No
+EMP00478,34,Human Resources,HR Manager,Diploma,Full-time,44750,5,5,Yes,3,2,24,7,No
+EMP00479,29,Engineering,QA Engineer,Master's,Contract,69750,2,1,No,1,4,34,7,No
+EMP00480,21,Engineering,Data Analyst,Master's,Contract,55666,3,3,Yes,3,2,19,4,Yes
+EMP00481,28,Sales,Account Manager,Doctorate,Full-time,43416,3,0,Yes,2,3,39,6,No
+EMP00482,40,Finance,Accountant,Master's,Full-time,59416,2,1,No,3,3,28,5,No
+EMP00483,25,Customer Support,Support Manager,Master's,Full-time,31416,1,1,No,4,3,6,8,No
+EMP00484,25,Sales,Account Manager,Bachelor's,Full-time,41250,1,1,Yes,3,3,14,2,No
+EMP00485,39,Customer Support,Support Specialist,Master's,Full-time,33916,3,2,No,4,3,16,7,No
+EMP00486,31,Engineering,Software Engineer,Master's,Full-time,82666,3,2,No,1,4,56,1,No
+EMP00487,31,Engineering,Software Engineer,Doctorate,Full-time,55833,1,1,No,1,4,38,5,No
+EMP00488,32,Human Resources,HR Executive,Diploma,Contract,43250,0,0,No,4,2,60,6,No
+EMP00489,35,Sales,Account Manager,Bachelor's,Contract,38500,2,1,Yes,3,3,4,7,No
+EMP00490,35,Engineering,Data Analyst,Doctorate,Contract,53666,1,0,No,2,3,53,7,No
+EMP00491,28,Human Resources,HR Executive,Master's,Full-time,46750,5,3,No,4,3,19,0,No
+EMP00492,41,Engineering,Data Analyst,Bachelor's,Contract,71500,1,0,No,4,2,35,6,No
+EMP00493,34,Engineering,QA Engineer,Doctorate,Contract,86833,7,0,No,3,1,53,2,No
+EMP00494,29,Finance,Financial Analyst,Bachelor's,Full-time,70583,2,1,Yes,2,3,19,7,No
+EMP00495,35,Engineering,QA Engineer,Bachelor's,Contract,69416,6,5,No,1,1,33,8,Yes
+EMP00496,45,Human Resources,Recruiter,Master's,Full-time,46083,1,0,No,4,3,49,8,No
+EMP00497,39,Customer Support,Support Specialist,Doctorate,Full-time,35916,7,0,Yes,3,1,34,2,No
+EMP00498,51,Finance,Accountant,Master's,Full-time,59833,1,0,Yes,4,3,53,6,No
+EMP00499,22,Customer Support,Support Specialist,Master's,Full-time,43083,6,2,No,2,3,11,1,No
+EMP00500,49,Sales,Sales Manager,Doctorate,Full-time,54916,5,1,No,4,4,48,3,No
+EMP00501,32,Finance,Financial Analyst,Master's,Full-time,52083,3,0,No,3,1,51,5,No
+EMP00502,38,Engineering,Data Analyst,Bachelor's,Full-time,57166,4,0,Yes,4,3,34,2,No
+EMP00503,39,Sales,Account Manager,Master's,Contract,55416,7,2,Yes,1,3,49,7,No
+EMP00504,22,Customer Support,Support Manager,Bachelor's,Contract,39416,8,5,No,4,4,17,0,Yes
+EMP00505,37,Engineering,Data Analyst,Master's,Full-time,60083,4,3,No,1,3,60,4,No
+EMP00506,44,Customer Support,Team Lead,Master's,Full-time,32416,0,0,Yes,4,3,54,3,No
+EMP00507,33,Engineering,QA Engineer,Doctorate,Full-time,56916,3,0,Yes,3,3,13,1,Yes
+EMP00508,41,Sales,Account Manager,Master's,Contract,56916,3,3,No,3,4,3,1,No
+EMP00509,26,Customer Support,Support Manager,Master's,Contract,35833,7,4,No,3,3,2,5,No
+EMP00510,26,Customer Support,Support Specialist,Diploma,Full-time,38916,7,2,Yes,2,1,20,8,No
+EMP00511,36,Finance,Accountant,Doctorate,Contract,58416,4,4,Yes,2,3,36,6,No
+EMP00512,48,Sales,Sales Manager,Bachelor's,Full-time,41666,2,1,Yes,3,3,41,4,No
+EMP00513,40,Engineering,Engineering Manager,Diploma,Full-time,57500,2,0,No,4,4,22,3,No
+EMP00514,31,Finance,Accountant,Diploma,Full-time,43500,2,0,No,4,2,59,3,No
+EMP00515,29,Human Resources,HR Manager,Master's,Full-time,47333,6,3,No,2,2,13,1,No
+EMP00516,21,Customer Support,Support Manager,Diploma,Full-time,39166,7,3,Yes,4,1,1,8,No
+EMP00517,33,Finance,Accountant,Diploma,Contract,60250,8,2,Yes,3,4,7,8,No
+EMP00518,37,Human Resources,HR Manager,Bachelor's,Full-time,39250,4,3,No,3,2,59,3,No
+EMP00519,37,Human Resources,Recruiter,Doctorate,Contract,32583,0,0,Yes,4,2,5,7,No
+EMP00520,39,Sales,Account Manager,Doctorate,Full-time,48833,3,0,No,3,3,8,4,No
+EMP00521,30,Finance,Finance Manager,Bachelor's,Contract,70000,7,5,No,3,3,27,1,No
+EMP00522,26,Sales,Account Manager,Bachelor's,Full-time,31583,0,0,No,3,3,39,2,No
+EMP00523,41,Sales,Sales Manager,Master's,Full-time,50416,5,1,No,3,2,32,4,No
+EMP00524,28,Engineering,Engineering Manager,Doctorate,Contract,60500,3,0,No,3,2,59,1,No
+EMP00525,28,Human Resources,HR Executive,Bachelor's,Full-time,48666,4,2,No,3,1,38,3,No
+EMP00526,30,Engineering,Engineering Manager,Master's,Full-time,67416,1,1,No,3,4,19,5,No
+EMP00527,43,Human Resources,Recruiter,Diploma,Full-time,50083,1,0,No,2,4,40,0,Yes
+EMP00528,33,Finance,Finance Manager,Doctorate,Full-time,41250,2,2,Yes,3,3,26,8,No
+EMP00529,41,Sales,Sales Executive,Master's,Full-time,48750,5,2,No,4,4,46,4,No
+EMP00530,37,Human Resources,Recruiter,Doctorate,Full-time,43166,2,0,Yes,4,3,17,6,No
+EMP00531,26,Finance,Financial Analyst,Diploma,Contract,45333,1,0,No,3,2,23,3,No
+EMP00532,35,Human Resources,Recruiter,Bachelor's,Contract,39333,1,1,No,2,3,54,0,No
+EMP00533,44,Customer Support,Support Manager,Diploma,Full-time,45750,9,2,No,2,3,33,0,No
+EMP00534,28,Finance,Financial Analyst,Doctorate,Full-time,64833,4,3,No,1,1,51,6,No
+EMP00535,49,Customer Support,Support Manager,Master's,Full-time,40666,10,2,Yes,2,4,52,2,No
+EMP00536,30,Finance,Finance Manager,Doctorate,Contract,67583,6,2,No,3,3,29,1,No
+EMP00537,38,Customer Support,Support Manager,Doctorate,Full-time,50416,11,4,Yes,3,3,14,1,No
+EMP00538,42,Engineering,Engineering Manager,Bachelor's,Contract,61250,1,0,No,2,3,19,2,No
+EMP00539,36,Finance,Finance Manager,Master's,Full-time,35916,2,2,Yes,3,4,28,2,Yes
+EMP00540,42,Finance,Accountant,Bachelor's,Full-time,40250,5,0,Yes,1,3,15,0,No
+EMP00541,26,Finance,Accountant,Bachelor's,Full-time,60000,9,8,Yes,4,2,17,4,No
+EMP00542,23,Engineering,QA Engineer,Master's,Full-time,82000,3,2,Yes,4,4,32,0,No
+EMP00543,21,Engineering,Engineering Manager,Doctorate,Contract,63583,5,3,Yes,3,3,13,6,Yes
+EMP00544,30,Customer Support,Team Lead,Master's,Full-time,42833,1,1,Yes,3,4,30,5,No
+EMP00545,37,Human Resources,Recruiter,Doctorate,Full-time,39166,7,4,No,3,2,16,0,No
+EMP00546,25,Engineering,Engineering Manager,Doctorate,Full-time,65166,5,2,Yes,3,4,45,5,No
+EMP00547,33,Sales,Account Manager,Diploma,Contract,54333,6,1,No,2,3,33,7,No
+EMP00548,36,Customer Support,Support Specialist,Master's,Contract,43333,8,5,No,3,3,39,0,No
+EMP00549,36,Sales,Sales Executive,Master's,Contract,39166,3,1,No,3,3,39,2,No
+EMP00550,26,Human Resources,HR Manager,Master's,Full-time,30916,2,1,Yes,4,3,40,6,No
+EMP00551,37,Engineering,QA Engineer,Bachelor's,Full-time,86166,7,4,Yes,3,4,31,1,No
+EMP00552,33,Customer Support,Support Manager,Bachelor's,Full-time,25750,2,0,Yes,4,3,17,1,No
+EMP00553,29,Customer Support,Support Manager,Master's,Contract,32583,1,1,No,3,4,9,6,No
+EMP00554,26,Engineering,Data Analyst,Master's,Full-time,86416,11,4,No,3,1,47,8,No
+EMP00555,33,Human Resources,Recruiter,Diploma,Full-time,27250,8,6,No,3,3,31,3,Yes
+EMP00556,29,Finance,Finance Manager,Doctorate,Full-time,61916,8,7,No,1,2,58,0,No
+EMP00557,39,Human Resources,Recruiter,Diploma,Contract,61416,5,0,No,3,3,37,0,No
+EMP00558,41,Sales,Sales Executive,Diploma,Full-time,36833,2,0,No,2,2,33,7,No
+EMP00559,32,Finance,Finance Manager,Bachelor's,Contract,51416,13,7,No,3,3,28,2,No
+EMP00560,44,Sales,Sales Manager,Diploma,Full-time,52083,5,0,Yes,3,4,32,8,Yes
+EMP00561,29,Sales,Account Manager,Doctorate,Full-time,72916,11,1,Yes,3,4,46,1,Yes
+EMP00562,27,Sales,Sales Manager,Diploma,Full-time,77083,12,0,Yes,3,3,19,5,No
+EMP00563,24,Finance,Accountant,Master's,Contract,71500,9,9,Yes,3,4,20,4,No
+EMP00564,31,Engineering,Software Engineer,Doctorate,Full-time,61500,2,2,Yes,3,3,27,7,No
+EMP00565,28,Sales,Sales Executive,Bachelor's,Full-time,40833,3,3,No,4,3,49,6,No
+EMP00566,28,Engineering,Engineering Manager,Bachelor's,Full-time,56666,2,1,No,4,2,15,0,No
+EMP00567,35,Finance,Accountant,Diploma,Full-time,64166,1,0,No,2,3,20,6,No
+EMP00568,37,Customer Support,Support Specialist,Master's,Full-time,42250,2,0,No,3,3,15,1,Yes
+EMP00569,38,Customer Support,Team Lead,Doctorate,Contract,35083,5,4,No,2,3,25,3,No
+EMP00570,23,Engineering,Engineering Manager,Master's,Full-time,65000,3,0,Yes,3,3,23,2,Yes
+EMP00571,39,Engineering,QA Engineer,Bachelor's,Contract,71666,3,0,No,1,4,5,5,No
+EMP00572,35,Human Resources,HR Manager,Doctorate,Full-time,45583,3,3,Yes,4,4,22,7,No
+EMP00573,32,Sales,Account Manager,Master's,Full-time,54666,9,7,Yes,4,3,16,8,No
+EMP00574,32,Finance,Financial Analyst,Master's,Full-time,42666,2,0,No,3,3,60,5,No
+EMP00575,39,Human Resources,HR Manager,Doctorate,Full-time,75583,10,10,No,3,4,13,2,No
+EMP00576,48,Human Resources,HR Executive,Master's,Contract,50250,5,4,No,3,3,46,7,No
+EMP00577,40,Finance,Accountant,Bachelor's,Full-time,61166,6,4,Yes,3,1,41,1,No
+EMP00578,43,Engineering,Data Analyst,Bachelor's,Full-time,70833,7,0,Yes,4,2,46,1,No
+EMP00579,22,Finance,Accountant,Diploma,Full-time,48000,5,5,No,2,4,41,1,No
+EMP00580,44,Sales,Account Manager,Diploma,Full-time,49333,5,4,No,4,3,26,8,No
+EMP00581,34,Finance,Financial Analyst,Bachelor's,Full-time,59083,2,2,No,3,4,36,0,No
+EMP00582,34,Human Resources,Recruiter,Master's,Full-time,41416,3,3,Yes,2,2,59,8,No
+EMP00583,24,Finance,Finance Manager,Master's,Full-time,76333,3,3,No,1,4,30,1,Yes
+EMP00584,24,Customer Support,Team Lead,Bachelor's,Contract,34833,1,0,No,3,3,14,5,No
+EMP00585,38,Human Resources,HR Manager,Diploma,Full-time,43250,2,0,No,3,3,41,1,No
+EMP00586,39,Sales,Sales Manager,Bachelor's,Full-time,62000,11,10,Yes,2,4,22,3,Yes
+EMP00587,41,Human Resources,Recruiter,Master's,Full-time,33833,3,1,No,4,4,25,3,No
+EMP00588,38,Sales,Sales Manager,Doctorate,Full-time,50083,5,0,No,3,4,53,2,Yes
+EMP00589,37,Sales,Sales Manager,Bachelor's,Full-time,43250,8,0,No,3,3,24,6,No
+EMP00590,42,Engineering,Software Engineer,Diploma,Full-time,69083,3,3,No,3,3,60,2,No
+EMP00591,38,Human Resources,HR Manager,Bachelor's,Contract,47916,3,2,No,2,4,56,7,No
+EMP00592,26,Sales,Account Manager,Bachelor's,Full-time,48166,2,2,No,1,4,53,0,No
+EMP00593,21,Sales,Sales Executive,Doctorate,Contract,65000,8,8,No,1,4,1,7,Yes
+EMP00594,36,Human Resources,Recruiter,Diploma,Full-time,29666,1,0,No,4,2,19,5,No
+EMP00595,31,Finance,Financial Analyst,Master's,Contract,58083,5,2,No,3,3,56,5,No
+EMP00596,36,Sales,Account Manager,Doctorate,Contract,34083,1,1,No,1,2,7,5,No
+EMP00597,41,Finance,Financial Analyst,Master's,Full-time,63916,3,3,No,1,3,41,5,No
+EMP00598,37,Customer Support,Team Lead,Diploma,Full-time,48000,12,5,Yes,4,3,27,6,No
+EMP00599,35,Engineering,Engineering Manager,Master's,Full-time,85083,4,3,No,4,4,48,6,No
+EMP00600,43,Engineering,Data Analyst,Doctorate,Full-time,87583,5,1,No,2,4,21,5,Yes
+EMP00601,36,Customer Support,Support Manager,Master's,Full-time,35333,4,0,No,3,1,7,4,No
+EMP00602,36,Customer Support,Support Manager,Master's,Contract,32166,3,3,Yes,3,2,30,7,Yes
+EMP00603,34,Engineering,QA Engineer,Doctorate,Full-time,74916,8,3,Yes,2,4,13,4,No
+EMP00604,43,Finance,Accountant,Doctorate,Contract,58083,1,1,No,3,4,27,3,No
+EMP00605,41,Engineering,Engineering Manager,Doctorate,Contract,73000,4,1,Yes,4,3,10,0,No
+EMP00606,45,Sales,Account Manager,Bachelor's,Full-time,42250,1,0,No,4,4,9,0,No
+EMP00607,37,Finance,Finance Manager,Doctorate,Contract,54500,9,1,No,4,2,53,3,No
+EMP00608,28,Human Resources,Recruiter,Bachelor's,Full-time,40166,4,0,Yes,4,3,13,1,Yes
+EMP00609,31,Sales,Account Manager,Bachelor's,Full-time,59833,8,4,No,2,2,13,6,No
+EMP00610,32,Engineering,Data Analyst,Doctorate,Contract,71166,0,0,Yes,3,4,59,1,No
+EMP00611,43,Finance,Finance Manager,Master's,Full-time,62500,2,1,Yes,3,2,20,3,Yes
+EMP00612,37,Customer Support,Team Lead,Doctorate,Full-time,28250,1,0,Yes,2,3,53,2,No
+EMP00613,32,Customer Support,Team Lead,Diploma,Full-time,38166,1,0,No,3,3,7,3,No
+EMP00614,27,Sales,Account Manager,Diploma,Full-time,38666,5,4,Yes,3,3,41,3,No
+EMP00615,22,Customer Support,Support Manager,Doctorate,Full-time,30500,0,0,Yes,4,4,16,7,Yes
+EMP00616,34,Engineering,Software Engineer,Master's,Full-time,86333,21,3,No,4,4,33,3,No
+EMP00617,27,Sales,Sales Manager,Doctorate,Full-time,63416,4,4,No,4,3,19,8,No
+EMP00618,44,Human Resources,HR Executive,Diploma,Contract,43750,6,2,Yes,3,2,39,8,No
+EMP00619,40,Customer Support,Team Lead,Master's,Contract,40416,3,1,Yes,3,3,19,8,No
+EMP00620,34,Customer Support,Support Manager,Bachelor's,Contract,35500,4,0,Yes,3,3,58,2,Yes
+EMP00621,26,Finance,Financial Analyst,Master's,Full-time,77166,10,7,No,3,3,56,4,No
+EMP00622,36,Customer Support,Support Manager,Doctorate,Full-time,36833,4,0,No,1,3,34,6,Yes
+EMP00623,21,Finance,Accountant,Master's,Full-time,54166,9,1,Yes,3,4,30,0,No
+EMP00624,51,Sales,Account Manager,Master's,Full-time,54333,3,0,No,4,2,54,8,No
+EMP00625,31,Sales,Account Manager,Diploma,Full-time,50000,2,0,No,2,3,31,4,No
+EMP00626,37,Customer Support,Support Manager,Doctorate,Full-time,37916,3,2,No,4,3,14,1,No
+EMP00627,23,Engineering,Engineering Manager,Bachelor's,Contract,49833,2,0,No,3,3,41,7,No
+EMP00628,33,Human Resources,HR Manager,Diploma,Full-time,37500,2,0,Yes,1,2,30,7,Yes
+EMP00629,33,Engineering,Engineering Manager,Diploma,Full-time,63916,4,0,Yes,3,4,50,7,No
+EMP00630,32,Engineering,QA Engineer,Doctorate,Full-time,74666,6,1,No,2,2,48,0,No
+EMP00631,39,Customer Support,Team Lead,Diploma,Full-time,37500,5,3,No,4,2,29,4,No
+EMP00632,42,Finance,Finance Manager,Doctorate,Full-time,56833,4,4,No,3,3,6,0,No
+EMP00633,52,Human Resources,HR Manager,Bachelor's,Full-time,42083,6,2,Yes,4,2,13,4,No
+EMP00634,32,Human Resources,HR Executive,Doctorate,Contract,37750,4,0,Yes,4,3,52,8,No
+EMP00635,27,Engineering,Engineering Manager,Diploma,Contract,82500,9,5,Yes,1,4,54,1,No
+EMP00636,46,Finance,Accountant,Diploma,Contract,73083,15,12,Yes,4,2,38,8,No
+EMP00637,33,Customer Support,Team Lead,Doctorate,Full-time,39083,4,0,No,4,4,51,5,No
+EMP00638,21,Finance,Accountant,Master's,Full-time,51750,2,1,No,1,1,55,3,No
+EMP00639,33,Engineering,Data Analyst,Master's,Full-time,68333,6,2,No,2,3,9,3,No
+EMP00640,35,Engineering,Engineering Manager,Master's,Full-time,60250,4,1,No,3,3,46,4,No
+EMP00641,38,Engineering,QA Engineer,Diploma,Full-time,65916,0,0,No,3,4,16,6,No
+EMP00642,34,Customer Support,Support Specialist,Master's,Full-time,20000,1,1,No,4,3,51,5,Yes
+EMP00643,35,Sales,Sales Executive,Master's,Full-time,40666,2,1,No,2,3,12,2,No
+EMP00644,21,Customer Support,Support Manager,Diploma,Full-time,48750,10,5,No,4,4,1,5,No
+EMP00645,24,Customer Support,Support Specialist,Master's,Full-time,32583,3,3,No,4,3,5,4,No
+EMP00646,40,Sales,Sales Executive,Master's,Contract,40750,2,2,No,4,1,5,1,No
+EMP00647,30,Sales,Account Manager,Diploma,Full-time,31833,0,0,Yes,3,3,7,8,No
+EMP00648,54,Customer Support,Support Manager,Master's,Contract,40166,2,0,No,3,4,9,8,No
+EMP00649,40,Human Resources,Recruiter,Doctorate,Contract,49083,1,1,No,1,4,8,3,Yes
+EMP00650,36,Finance,Accountant,Diploma,Contract,49166,0,0,No,4,4,43,6,No
+EMP00651,39,Finance,Finance Manager,Bachelor's,Full-time,39916,1,1,Yes,3,2,4,6,No
+EMP00652,29,Finance,Financial Analyst,Bachelor's,Full-time,65083,3,0,No,3,2,24,5,No
+EMP00653,24,Human Resources,HR Executive,Master's,Full-time,56833,5,5,No,1,1,7,0,No
+EMP00654,52,Engineering,Software Engineer,Doctorate,Full-time,91750,7,5,No,4,1,50,5,No
+EMP00655,35,Finance,Finance Manager,Bachelor's,Full-time,46916,3,3,No,4,3,13,0,No
+EMP00656,44,Customer Support,Support Specialist,Doctorate,Full-time,43000,0,0,No,3,3,32,7,Yes
+EMP00657,42,Customer Support,Support Manager,Bachelor's,Full-time,25250,1,1,Yes,3,4,25,2,No
+EMP00658,33,Finance,Financial Analyst,Bachelor's,Full-time,53916,3,2,No,4,3,19,6,No
+EMP00659,29,Sales,Sales Manager,Master's,Full-time,37416,1,1,No,4,3,41,5,No
+EMP00660,35,Engineering,Software Engineer,Bachelor's,Full-time,79333,11,11,No,3,1,49,1,No
+EMP00661,38,Customer Support,Support Manager,Doctorate,Full-time,29166,0,0,No,3,1,25,8,No
+EMP00662,25,Finance,Finance Manager,Bachelor's,Contract,52416,2,2,Yes,4,2,29,7,No
+EMP00663,36,Human Resources,HR Manager,Diploma,Contract,39250,4,0,No,3,3,52,3,No
+EMP00664,33,Engineering,QA Engineer,Bachelor's,Full-time,64666,6,4,Yes,4,3,9,7,No
+EMP00665,40,Human Resources,HR Manager,Doctorate,Contract,32000,3,3,No,1,3,52,8,No
+EMP00666,39,Human Resources,HR Executive,Master's,Contract,38916,1,1,No,4,2,8,2,No
+EMP00667,21,Finance,Finance Manager,Doctorate,Contract,53916,3,2,Yes,2,3,58,7,Yes
+EMP00668,35,Human Resources,HR Manager,Master's,Full-time,42583,3,3,No,2,4,21,1,No
+EMP00669,37,Human Resources,HR Manager,Master's,Full-time,62166,5,5,No,3,4,12,8,No
+EMP00670,31,Engineering,Software Engineer,Doctorate,Full-time,80250,4,2,No,3,3,23,6,No
+EMP00671,38,Human Resources,HR Executive,Doctorate,Full-time,52750,3,2,No,4,3,13,5,No
+EMP00672,35,Engineering,QA Engineer,Master's,Full-time,94833,8,1,Yes,4,2,49,5,Yes
+EMP00673,25,Sales,Account Manager,Diploma,Full-time,57166,2,1,Yes,2,3,48,6,No
+EMP00674,39,Sales,Sales Manager,Master's,Contract,53750,4,2,No,2,3,5,7,Yes
+EMP00675,29,Sales,Sales Manager,Doctorate,Full-time,54916,6,3,No,3,4,11,6,No
+EMP00676,45,Sales,Sales Executive,Doctorate,Full-time,42333,4,0,No,3,2,17,6,No
+EMP00677,21,Human Resources,Recruiter,Bachelor's,Full-time,47666,6,2,Yes,3,3,59,7,No
+EMP00678,29,Customer Support,Support Specialist,Diploma,Full-time,47500,6,5,No,4,3,54,5,No
+EMP00679,34,Sales,Sales Manager,Doctorate,Full-time,36583,0,0,No,3,4,36,0,No
+EMP00680,28,Engineering,Engineering Manager,Doctorate,Contract,76666,9,5,Yes,4,4,40,1,No
+EMP00681,30,Customer Support,Team Lead,Diploma,Full-time,32083,4,3,No,3,4,37,7,No
+EMP00682,30,Human Resources,HR Executive,Doctorate,Full-time,43583,1,1,No,2,4,21,0,No
+EMP00683,29,Sales,Sales Manager,Diploma,Contract,63083,8,5,Yes,3,3,49,8,No
+EMP00684,36,Engineering,Engineering Manager,Bachelor's,Full-time,79083,3,2,Yes,3,3,15,0,No
+EMP00685,46,Human Resources,HR Executive,Doctorate,Full-time,45416,9,3,No,2,3,45,4,No
+EMP00686,40,Sales,Sales Executive,Diploma,Full-time,50250,2,1,Yes,4,4,14,3,No
+EMP00687,28,Sales,Account Manager,Doctorate,Contract,55000,5,4,No,1,4,27,5,No
+EMP00688,35,Finance,Financial Analyst,Master's,Full-time,49833,1,0,No,3,3,45,4,No
+EMP00689,21,Engineering,QA Engineer,Doctorate,Full-time,63833,3,2,No,4,1,60,3,No
+EMP00690,42,Engineering,Software Engineer,Master's,Full-time,64333,2,1,No,1,3,29,5,No
+EMP00691,35,Customer Support,Support Specialist,Doctorate,Full-time,34833,2,1,No,3,3,16,6,No
+EMP00692,35,Engineering,Software Engineer,Master's,Full-time,64583,6,1,No,3,3,34,4,No
+EMP00693,44,Human Resources,HR Executive,Master's,Full-time,51833,7,3,No,4,1,23,6,No
+EMP00694,45,Customer Support,Support Manager,Master's,Full-time,40083,9,5,No,4,3,13,0,No
+EMP00695,28,Sales,Account Manager,Doctorate,Full-time,49166,2,1,No,2,3,49,5,No
+EMP00696,22,Sales,Sales Manager,Diploma,Full-time,58833,4,2,No,4,2,54,3,No
+EMP00697,30,Engineering,Data Analyst,Doctorate,Full-time,51416,2,0,Yes,3,1,47,5,No
+EMP00698,26,Customer Support,Support Specialist,Bachelor's,Contract,43250,4,1,Yes,4,4,33,8,No
+EMP00699,27,Finance,Financial Analyst,Doctorate,Full-time,47666,1,1,No,1,2,60,4,No
+EMP00700,21,Finance,Accountant,Bachelor's,Full-time,48250,4,4,No,3,4,54,0,No
+EMP00701,38,Customer Support,Team Lead,Diploma,Full-time,38250,3,0,No,3,2,17,7,No
+EMP00702,26,Customer Support,Team Lead,Master's,Full-time,35583,3,2,No,3,4,15,5,Yes
+EMP00703,45,Human Resources,HR Manager,Master's,Full-time,48000,5,3,Yes,4,3,10,7,No
+EMP00704,30,Human Resources,Recruiter,Bachelor's,Full-time,46000,2,0,No,2,4,37,3,Yes
+EMP00705,24,Human Resources,HR Executive,Bachelor's,Full-time,42750,3,1,No,3,2,32,1,Yes
+EMP00706,26,Human Resources,HR Executive,Master's,Full-time,51916,6,3,No,3,3,2,4,No
+EMP00707,30,Human Resources,HR Manager,Doctorate,Contract,41666,1,1,No,3,3,5,6,No
+EMP00708,26,Engineering,QA Engineer,Diploma,Full-time,74416,1,1,No,4,3,27,3,No
+EMP00709,31,Finance,Finance Manager,Doctorate,Contract,44916,7,5,No,3,2,34,5,No
+EMP00710,21,Human Resources,HR Executive,Master's,Full-time,61083,4,3,No,3,3,20,3,No
+EMP00711,35,Human Resources,HR Manager,Doctorate,Full-time,57750,8,2,No,3,2,47,4,No
+EMP00712,29,Finance,Financial Analyst,Bachelor's,Full-time,52750,3,2,No,3,1,22,0,No
+EMP00713,31,Human Resources,HR Manager,Master's,Full-time,49833,3,0,Yes,3,4,36,7,Yes
+EMP00714,26,Finance,Accountant,Bachelor's,Full-time,59833,12,7,Yes,1,3,55,3,No
+EMP00715,25,Human Resources,HR Executive,Diploma,Contract,44333,5,1,Yes,3,1,7,2,No
+EMP00716,44,Human Resources,HR Executive,Bachelor's,Full-time,41416,2,0,No,4,3,21,7,No
+EMP00717,25,Human Resources,HR Manager,Bachelor's,Full-time,44916,1,0,Yes,1,3,53,1,Yes
+EMP00718,30,Customer Support,Support Manager,Doctorate,Full-time,41083,4,0,No,2,2,25,6,Yes
+EMP00719,35,Human Resources,HR Manager,Doctorate,Full-time,38916,1,0,No,3,4,59,0,No
+EMP00720,39,Finance,Finance Manager,Doctorate,Contract,50000,0,0,No,3,2,55,8,No
+EMP00721,21,Human Resources,Recruiter,Diploma,Contract,25916,1,1,No,2,3,29,7,No
+EMP00722,27,Finance,Accountant,Doctorate,Full-time,55500,3,1,Yes,2,3,11,4,No
+EMP00723,26,Human Resources,Recruiter,Bachelor's,Full-time,38833,8,3,No,2,2,57,5,No
+EMP00724,23,Sales,Sales Manager,Diploma,Full-time,54750,0,0,Yes,3,3,27,7,No
+EMP00725,48,Sales,Sales Executive,Doctorate,Contract,42333,4,1,No,1,3,16,8,No
+EMP00726,33,Engineering,Software Engineer,Diploma,Full-time,64250,4,1,Yes,2,1,41,6,No
+EMP00727,34,Finance,Financial Analyst,Bachelor's,Full-time,50583,2,0,No,1,3,28,4,No
+EMP00728,30,Sales,Account Manager,Doctorate,Full-time,52833,2,0,No,2,3,21,3,No
+EMP00729,40,Finance,Accountant,Diploma,Full-time,65916,2,1,Yes,3,4,40,3,No
+EMP00730,25,Finance,Finance Manager,Bachelor's,Contract,49000,0,0,No,3,3,51,4,No
+EMP00731,36,Customer Support,Support Manager,Bachelor's,Full-time,54250,8,3,Yes,1,3,48,5,No
+EMP00732,31,Engineering,QA Engineer,Diploma,Contract,62333,0,0,Yes,2,1,4,2,No
+EMP00733,31,Engineering,Engineering Manager,Bachelor's,Contract,67916,5,3,Yes,4,4,54,8,Yes
+EMP00734,33,Customer Support,Team Lead,Doctorate,Full-time,32250,3,2,No,4,4,1,0,No
+EMP00735,26,Finance,Financial Analyst,Doctorate,Full-time,55166,4,4,Yes,3,3,46,8,No
+EMP00736,49,Sales,Account Manager,Doctorate,Full-time,32833,7,1,No,4,3,34,5,No
+EMP00737,32,Engineering,QA Engineer,Master's,Full-time,65666,4,1,No,1,4,42,4,No
+EMP00738,30,Engineering,Data Analyst,Master's,Contract,72916,6,2,No,3,4,36,0,No
+EMP00739,52,Finance,Financial Analyst,Bachelor's,Full-time,53250,3,3,Yes,3,4,51,0,No
+EMP00740,44,Human Resources,HR Executive,Bachelor's,Full-time,38666,5,5,No,3,3,10,5,No
+EMP00741,31,Finance,Financial Analyst,Diploma,Full-time,33333,1,0,No,1,3,39,1,Yes
+EMP00742,27,Engineering,Data Analyst,Bachelor's,Contract,96750,5,0,No,4,3,17,7,No
+EMP00743,30,Finance,Financial Analyst,Bachelor's,Full-time,72750,7,1,No,3,3,54,4,No
+EMP00744,26,Customer Support,Support Manager,Master's,Contract,40166,5,3,No,4,3,49,1,No
+EMP00745,32,Customer Support,Support Manager,Bachelor's,Full-time,32750,2,0,No,4,3,45,2,No
+EMP00746,49,Customer Support,Support Manager,Master's,Full-time,30833,5,2,No,3,3,5,0,No
+EMP00747,34,Finance,Finance Manager,Bachelor's,Contract,49333,3,2,No,1,3,17,0,No
+EMP00748,43,Sales,Sales Manager,Doctorate,Full-time,45250,7,7,No,3,4,52,2,No
+EMP00749,21,Finance,Financial Analyst,Master's,Full-time,52750,4,3,No,3,3,34,1,No
+EMP00750,31,Finance,Accountant,Bachelor's,Full-time,62083,0,0,Yes,3,2,45,1,No
+EMP00751,21,Sales,Account Manager,Diploma,Contract,48833,2,0,No,1,2,32,8,No
+EMP00752,31,Engineering,Data Analyst,Bachelor's,Full-time,62000,3,3,Yes,3,3,3,3,No
+EMP00753,42,Human Resources,Recruiter,Bachelor's,Full-time,43250,2,2,No,2,4,9,5,Yes
+EMP00754,37,Sales,Sales Manager,Doctorate,Full-time,58416,2,1,Yes,2,3,20,3,No
+EMP00755,44,Sales,Account Manager,Master's,Contract,50833,9,9,No,2,3,59,7,Yes
+EMP00756,48,Human Resources,HR Executive,Doctorate,Contract,41083,4,4,No,3,4,2,5,Yes
+EMP00757,34,Human Resources,HR Manager,Diploma,Full-time,43083,6,5,No,3,3,49,2,No
+EMP00758,29,Customer Support,Support Manager,Doctorate,Full-time,40083,3,0,No,4,3,19,7,No
+EMP00759,33,Sales,Sales Manager,Diploma,Full-time,52750,3,1,Yes,2,2,60,8,No
+EMP00760,27,Engineering,Engineering Manager,Master's,Full-time,73166,5,4,No,4,2,1,5,No
+EMP00761,21,Human Resources,HR Executive,Bachelor's,Full-time,48083,4,1,Yes,3,3,44,1,No
+EMP00762,26,Sales,Sales Executive,Doctorate,Full-time,46666,2,2,No,1,4,21,2,No
+EMP00763,35,Human Resources,HR Manager,Master's,Full-time,48500,4,3,No,4,3,22,1,No
+EMP00764,40,Engineering,Engineering Manager,Doctorate,Full-time,71500,0,0,Yes,3,4,28,7,No
+EMP00765,21,Sales,Account Manager,Bachelor's,Full-time,45416,2,1,No,2,4,46,2,No
+EMP00766,38,Finance,Accountant,Master's,Full-time,68416,6,0,Yes,4,3,52,7,No
+EMP00767,30,Engineering,Engineering Manager,Master's,Full-time,60250,1,1,No,3,4,22,5,No
+EMP00768,28,Finance,Financial Analyst,Bachelor's,Full-time,46000,6,3,No,4,4,37,0,No
+EMP00769,27,Human Resources,HR Manager,Diploma,Full-time,44916,4,4,Yes,4,4,16,2,No
+EMP00770,42,Human Resources,HR Executive,Doctorate,Full-time,46166,7,0,No,3,2,48,1,No
+EMP00771,27,Finance,Financial Analyst,Master's,Full-time,40416,4,4,No,3,3,57,2,No
+EMP00772,30,Finance,Finance Manager,Diploma,Full-time,60000,7,6,No,3,3,4,6,No
+EMP00773,44,Finance,Financial Analyst,Bachelor's,Contract,56166,4,0,No,4,1,50,0,No
+EMP00774,47,Finance,Financial Analyst,Diploma,Contract,54500,1,0,No,2,3,60,4,Yes
+EMP00775,27,Finance,Accountant,Diploma,Contract,68583,2,2,No,3,3,47,4,No
+EMP00776,50,Engineering,Engineering Manager,Diploma,Full-time,59750,7,5,Yes,2,3,56,5,No
+EMP00777,42,Finance,Finance Manager,Bachelor's,Contract,50500,3,1,No,3,3,40,7,No
+EMP00778,21,Sales,Sales Manager,Master's,Full-time,35750,1,1,Yes,4,3,42,0,No
+EMP00779,29,Engineering,QA Engineer,Doctorate,Contract,72166,7,3,No,4,2,51,3,No
+EMP00780,30,Sales,Sales Manager,Doctorate,Contract,71000,13,0,Yes,2,4,44,5,Yes
+EMP00781,28,Finance,Finance Manager,Master's,Contract,67000,7,6,Yes,4,3,45,1,No
+EMP00782,35,Sales,Sales Manager,Diploma,Full-time,60416,3,0,No,4,4,39,1,No
+EMP00783,41,Customer Support,Team Lead,Master's,Full-time,38083,3,3,No,3,3,23,3,No
+EMP00784,48,Engineering,QA Engineer,Master's,Contract,74250,4,0,Yes,2,4,14,4,No
+EMP00785,44,Finance,Financial Analyst,Doctorate,Full-time,51166,5,1,No,1,1,29,6,No
+EMP00786,31,Customer Support,Support Manager,Master's,Full-time,38166,4,4,No,3,3,46,1,No
+EMP00787,35,Finance,Accountant,Doctorate,Full-time,55833,2,2,Yes,4,2,49,7,No
+EMP00788,31,Finance,Financial Analyst,Doctorate,Full-time,55250,1,1,No,4,3,33,4,No
+EMP00789,34,Sales,Sales Executive,Bachelor's,Contract,54166,5,1,No,4,3,20,5,No
+EMP00790,42,Human Resources,HR Manager,Bachelor's,Full-time,47583,1,0,No,3,3,13,8,No
+EMP00791,43,Sales,Sales Manager,Master's,Full-time,42750,3,0,No,2,1,39,8,No
+EMP00792,36,Human Resources,HR Executive,Bachelor's,Full-time,50916,4,0,No,3,2,43,3,No
+EMP00793,32,Human Resources,Recruiter,Diploma,Contract,56750,16,10,Yes,3,3,49,5,No
+EMP00794,31,Sales,Sales Manager,Master's,Full-time,42583,2,1,No,3,2,44,4,No
+EMP00795,39,Human Resources,HR Manager,Doctorate,Full-time,37083,2,0,No,3,2,13,3,No
+EMP00796,36,Engineering,Data Analyst,Master's,Full-time,73583,3,3,No,1,3,18,4,Yes
+EMP00797,26,Customer Support,Support Specialist,Doctorate,Full-time,36916,0,0,Yes,4,2,53,0,No
+EMP00798,31,Human Resources,HR Executive,Master's,Full-time,46083,12,11,No,1,3,48,1,No
+EMP00799,37,Engineering,QA Engineer,Master's,Full-time,51916,0,0,No,4,3,34,5,No
+EMP00800,26,Engineering,Software Engineer,Doctorate,Full-time,74583,3,2,No,1,3,24,7,No
+EMP00801,37,Engineering,QA Engineer,Diploma,Full-time,43750,3,0,No,3,4,37,2,No
+EMP00802,39,Engineering,Data Analyst,Diploma,Full-time,72583,9,5,No,3,2,17,6,No
+EMP00803,41,Customer Support,Support Manager,Bachelor's,Full-time,43500,2,0,No,3,3,57,1,Yes
+EMP00804,30,Human Resources,HR Executive,Doctorate,Full-time,38250,4,2,Yes,3,3,20,1,No
+EMP00805,33,Engineering,Engineering Manager,Bachelor's,Full-time,62583,3,3,Yes,4,3,2,4,No
+EMP00806,40,Sales,Sales Manager,Diploma,Full-time,46500,1,1,No,3,1,55,5,Yes
+EMP00807,29,Sales,Account Manager,Doctorate,Contract,53916,3,3,Yes,3,3,14,8,No
+EMP00808,40,Finance,Accountant,Bachelor's,Full-time,50333,3,3,No,3,2,5,8,No
+EMP00809,26,Finance,Accountant,Bachelor's,Contract,71750,6,4,No,3,4,26,1,No
+EMP00810,30,Human Resources,HR Executive,Diploma,Contract,43750,8,3,Yes,4,3,2,6,No
+EMP00811,39,Engineering,Engineering Manager,Diploma,Full-time,100416,8,5,No,3,3,45,7,No
+EMP00812,36,Engineering,Engineering Manager,Bachelor's,Full-time,83500,6,3,Yes,3,4,52,5,No
+EMP00813,38,Sales,Account Manager,Master's,Full-time,50000,3,0,Yes,1,2,9,4,No
+EMP00814,37,Customer Support,Support Manager,Diploma,Full-time,40166,4,3,No,3,4,13,1,No
+EMP00815,49,Customer Support,Support Manager,Doctorate,Full-time,41166,5,2,No,4,3,12,6,No
+EMP00816,31,Sales,Account Manager,Bachelor's,Full-time,53416,3,3,No,3,3,42,1,No
+EMP00817,42,Engineering,Software Engineer,Master's,Full-time,75750,6,2,No,4,3,36,4,No
+EMP00818,21,Sales,Account Manager,Doctorate,Full-time,39000,1,0,No,3,2,4,8,No
+EMP00819,36,Customer Support,Support Manager,Doctorate,Full-time,38833,12,6,No,3,3,60,3,No
+EMP00820,33,Customer Support,Support Specialist,Bachelor's,Full-time,43500,6,0,Yes,4,3,49,4,No
+EMP00821,39,Finance,Financial Analyst,Bachelor's,Contract,67833,10,1,No,4,3,52,1,No
+EMP00822,37,Human Resources,HR Executive,Diploma,Full-time,42166,3,2,Yes,4,2,21,1,No
+EMP00823,23,Engineering,QA Engineer,Doctorate,Full-time,87916,4,3,No,3,4,47,5,No
+EMP00824,27,Human Resources,HR Manager,Master's,Full-time,50916,4,0,No,3,1,13,2,No
+EMP00825,31,Human Resources,Recruiter,Master's,Full-time,35166,2,0,Yes,2,4,46,1,No
+EMP00826,37,Finance,Accountant,Master's,Contract,64583,6,0,Yes,2,3,15,8,No
+EMP00827,31,Sales,Sales Manager,Diploma,Full-time,57916,11,5,No,4,3,8,3,No
+EMP00828,29,Customer Support,Support Manager,Diploma,Full-time,39666,3,3,No,2,3,20,3,No
+EMP00829,36,Finance,Accountant,Bachelor's,Full-time,70916,10,8,No,3,4,1,2,Yes
+EMP00830,45,Finance,Accountant,Master's,Full-time,66333,5,1,No,4,2,16,5,No
+EMP00831,42,Customer Support,Support Specialist,Diploma,Full-time,42000,4,3,No,2,3,37,8,No
+EMP00832,44,Sales,Account Manager,Doctorate,Contract,48666,3,0,No,1,4,10,5,No
+EMP00833,30,Human Resources,HR Executive,Diploma,Full-time,45333,2,1,No,2,3,51,6,No
+EMP00834,35,Human Resources,HR Manager,Doctorate,Contract,53916,8,6,No,3,1,57,8,No
+EMP00835,40,Human Resources,HR Executive,Bachelor's,Contract,39416,4,3,No,3,2,58,5,No
+EMP00836,42,Sales,Sales Executive,Diploma,Full-time,36416,0,0,No,4,3,20,0,No
+EMP00837,44,Human Resources,HR Executive,Master's,Full-time,57416,9,1,No,4,4,34,1,No
+EMP00838,42,Sales,Sales Manager,Diploma,Full-time,44666,2,0,No,2,1,4,5,No
+EMP00839,31,Engineering,Data Analyst,Diploma,Full-time,58833,3,3,Yes,4,3,23,1,No
+EMP00840,23,Sales,Account Manager,Diploma,Contract,47000,8,5,Yes,4,2,10,0,No
+EMP00841,29,Engineering,QA Engineer,Doctorate,Full-time,65166,3,0,No,3,2,38,7,No
+EMP00842,21,Finance,Accountant,Master's,Full-time,51583,3,3,No,2,4,53,3,No
+EMP00843,31,Sales,Sales Executive,Diploma,Full-time,50500,6,5,Yes,1,4,58,7,No
+EMP00844,36,Sales,Account Manager,Bachelor's,Full-time,41000,6,2,No,3,3,46,4,No
+EMP00845,28,Human Resources,Recruiter,Bachelor's,Full-time,45416,6,2,No,3,2,55,6,No
+EMP00846,46,Engineering,QA Engineer,Doctorate,Full-time,61750,6,5,Yes,1,4,36,3,No
+EMP00847,24,Engineering,Software Engineer,Master's,Contract,72583,10,8,Yes,4,4,60,0,Yes
+EMP00848,50,Human Resources,HR Executive,Bachelor's,Full-time,38000,0,0,No,4,3,20,6,No
+EMP00849,49,Finance,Financial Analyst,Master's,Full-time,59416,1,0,No,3,3,52,0,No
+EMP00850,27,Engineering,Engineering Manager,Doctorate,Full-time,71916,7,6,Yes,3,3,48,1,No
+EMP00851,23,Human Resources,Recruiter,Doctorate,Full-time,35166,0,0,No,3,4,22,1,Yes
+EMP00852,33,Engineering,Engineering Manager,Doctorate,Full-time,60833,3,3,No,2,3,42,2,No
+EMP00853,34,Sales,Sales Executive,Diploma,Full-time,34583,2,2,Yes,3,4,40,8,No
+EMP00854,26,Engineering,Engineering Manager,Bachelor's,Contract,57083,6,6,No,3,4,30,6,No
+EMP00855,32,Sales,Sales Manager,Doctorate,Full-time,57750,11,9,No,4,4,14,2,No
+EMP00856,28,Sales,Sales Manager,Master's,Full-time,47666,1,0,No,3,2,53,6,No
+EMP00857,34,Customer Support,Team Lead,Doctorate,Contract,45583,11,10,Yes,2,3,30,8,No
+EMP00858,46,Customer Support,Team Lead,Master's,Full-time,48583,3,1,Yes,2,1,60,5,No
+EMP00859,35,Finance,Financial Analyst,Doctorate,Full-time,51583,2,0,Yes,4,3,23,8,Yes
+EMP00860,56,Finance,Finance Manager,Master's,Full-time,54833,3,1,Yes,4,3,48,2,No
+EMP00861,39,Sales,Sales Executive,Master's,Full-time,36500,0,0,Yes,1,3,59,1,Yes
+EMP00862,24,Sales,Sales Executive,Bachelor's,Full-time,52750,2,1,No,3,4,12,2,No
+EMP00863,36,Customer Support,Support Specialist,Diploma,Full-time,39666,6,0,No,2,3,57,0,No
+EMP00864,34,Engineering,Engineering Manager,Doctorate,Full-time,71166,2,0,Yes,2,1,42,5,Yes
+EMP00865,29,Engineering,QA Engineer,Doctorate,Full-time,74083,1,1,No,1,4,30,2,No
+EMP00866,33,Customer Support,Support Specialist,Bachelor's,Full-time,43916,1,1,No,3,3,11,7,No
+EMP00867,21,Sales,Account Manager,Master's,Full-time,41916,5,1,No,3,3,14,3,No
+EMP00868,44,Engineering,Data Analyst,Doctorate,Full-time,91666,8,5,No,1,3,32,2,Yes
+EMP00869,32,Human Resources,Recruiter,Doctorate,Contract,42750,4,1,No,1,1,41,0,No
+EMP00870,26,Engineering,QA Engineer,Doctorate,Contract,57833,3,0,Yes,4,4,46,0,No
+EMP00871,45,Customer Support,Team Lead,Master's,Full-time,46750,8,3,No,1,4,48,1,No
+EMP00872,32,Engineering,QA Engineer,Diploma,Contract,66166,7,1,No,3,3,24,3,No
+EMP00873,44,Engineering,Engineering Manager,Bachelor's,Full-time,66166,1,1,Yes,3,4,49,1,Yes
+EMP00874,43,Engineering,Data Analyst,Doctorate,Contract,73333,4,3,Yes,3,4,21,1,No
+EMP00875,33,Finance,Financial Analyst,Doctorate,Full-time,64416,4,4,No,4,3,20,2,No
+EMP00876,36,Customer Support,Support Manager,Master's,Full-time,44250,2,0,No,3,3,55,1,No
+EMP00877,30,Sales,Account Manager,Bachelor's,Full-time,38416,3,2,No,4,4,17,8,No
+EMP00878,21,Engineering,Engineering Manager,Doctorate,Full-time,65250,3,0,Yes,3,4,47,4,No
+EMP00879,31,Human Resources,Recruiter,Doctorate,Full-time,34583,3,0,No,3,2,4,5,No
+EMP00880,46,Sales,Sales Manager,Doctorate,Full-time,50416,2,0,Yes,4,3,52,0,No
+EMP00881,38,Human Resources,Recruiter,Diploma,Full-time,44166,5,1,No,2,4,2,4,No
+EMP00882,54,Human Resources,HR Manager,Diploma,Full-time,41166,6,2,No,3,3,33,7,No
+EMP00883,25,Sales,Sales Executive,Diploma,Full-time,48000,1,1,No,3,3,48,8,Yes
+EMP00884,37,Engineering,Data Analyst,Bachelor's,Contract,68666,3,2,No,3,4,34,0,No
+EMP00885,34,Sales,Account Manager,Master's,Full-time,55000,7,3,No,3,3,43,6,No
+EMP00886,46,Sales,Sales Executive,Doctorate,Contract,45500,2,2,No,2,3,33,5,No
+EMP00887,37,Human Resources,HR Manager,Diploma,Contract,55166,4,2,Yes,2,2,38,5,No
+EMP00888,29,Engineering,Engineering Manager,Master's,Full-time,74916,8,1,No,3,4,18,4,No
+EMP00889,33,Engineering,Engineering Manager,Diploma,Contract,58666,0,0,Yes,3,3,17,5,No
+EMP00890,38,Engineering,Engineering Manager,Master's,Full-time,65666,4,4,No,4,3,6,1,No
+EMP00891,41,Sales,Account Manager,Diploma,Contract,57916,3,1,Yes,4,3,53,2,No
+EMP00892,36,Finance,Finance Manager,Master's,Full-time,65250,6,3,No,4,3,11,5,No
+EMP00893,37,Human Resources,HR Manager,Diploma,Contract,39666,4,4,No,4,3,6,6,No
+EMP00894,36,Human Resources,HR Manager,Master's,Full-time,44583,9,6,No,3,3,48,0,No
+EMP00895,34,Engineering,Software Engineer,Bachelor's,Contract,63666,0,0,No,4,4,5,3,No
+EMP00896,28,Customer Support,Support Manager,Bachelor's,Full-time,46916,10,6,No,3,4,5,7,No
+EMP00897,38,Finance,Finance Manager,Diploma,Contract,52833,6,2,No,2,2,50,6,Yes
+EMP00898,41,Customer Support,Support Specialist,Bachelor's,Full-time,32000,1,1,No,1,3,23,6,No
+EMP00899,26,Finance,Finance Manager,Bachelor's,Contract,67416,5,0,No,3,1,4,1,No
+EMP00900,38,Finance,Accountant,Master's,Full-time,58916,4,2,No,3,1,45,0,No
+EMP00901,25,Sales,Account Manager,Diploma,Full-time,47750,5,0,Yes,3,4,21,1,No
+EMP00902,32,Customer Support,Team Lead,Master's,Contract,45833,5,4,No,3,3,57,8,No
+EMP00903,26,Human Resources,HR Manager,Diploma,Contract,59833,14,14,No,4,3,15,2,No
+EMP00904,21,Human Resources,HR Executive,Diploma,Full-time,40833,4,3,No,3,4,14,4,No
+EMP00905,33,Human Resources,HR Executive,Master's,Full-time,47583,8,8,No,3,3,8,8,No
+EMP00906,32,Human Resources,HR Executive,Diploma,Contract,43833,5,0,Yes,2,3,26,0,No
+EMP00907,32,Finance,Accountant,Bachelor's,Full-time,68083,7,5,No,4,2,15,6,No
+EMP00908,36,Human Resources,HR Executive,Doctorate,Full-time,39916,3,0,No,3,3,10,8,No
+EMP00909,45,Finance,Finance Manager,Master's,Contract,62833,1,1,No,3,4,56,6,No
+EMP00910,38,Human Resources,Recruiter,Diploma,Full-time,44333,3,0,No,3,3,4,2,Yes
+EMP00911,47,Sales,Sales Manager,Doctorate,Full-time,52583,4,2,No,1,2,1,7,No
+EMP00912,42,Human Resources,HR Executive,Doctorate,Full-time,54083,12,11,Yes,3,3,59,4,No
+EMP00913,38,Human Resources,HR Executive,Master's,Full-time,47083,1,0,No,3,3,54,1,No
+EMP00914,45,Finance,Accountant,Doctorate,Full-time,46166,1,0,No,4,1,20,1,No
+EMP00915,40,Human Resources,Recruiter,Master's,Full-time,57583,6,1,No,2,1,22,7,No
+EMP00916,33,Human Resources,HR Executive,Bachelor's,Full-time,46333,7,4,No,4,3,9,0,No
+EMP00917,28,Sales,Account Manager,Diploma,Contract,44916,7,4,Yes,3,1,57,8,No
+EMP00918,21,Human Resources,HR Executive,Doctorate,Full-time,46000,4,3,No,3,3,20,6,No
+EMP00919,21,Customer Support,Support Specialist,Doctorate,Full-time,38916,6,5,No,3,3,29,3,No
+EMP00920,43,Engineering,QA Engineer,Diploma,Full-time,55833,1,1,No,3,4,53,2,No
+EMP00921,26,Human Resources,Recruiter,Master's,Full-time,27750,2,0,No,3,3,43,7,No
+EMP00922,56,Finance,Finance Manager,Bachelor's,Full-time,49000,9,1,No,1,1,50,8,No
+EMP00923,31,Human Resources,HR Manager,Diploma,Full-time,48000,8,7,No,1,3,30,8,Yes
+EMP00924,33,Customer Support,Support Specialist,Master's,Full-time,28750,0,0,No,4,3,30,3,No
+EMP00925,21,Sales,Sales Manager,Master's,Contract,47166,6,3,No,2,2,34,2,No
+EMP00926,51,Finance,Accountant,Master's,Contract,47166,0,0,No,2,2,13,8,No
+EMP00927,42,Finance,Accountant,Diploma,Contract,62416,4,1,Yes,1,4,43,3,No
+EMP00928,34,Human Resources,HR Executive,Diploma,Full-time,33166,1,0,No,4,3,52,2,No
+EMP00929,44,Customer Support,Support Manager,Bachelor's,Full-time,31000,8,7,No,2,3,15,4,No
+EMP00930,27,Finance,Financial Analyst,Bachelor's,Contract,64833,8,6,No,4,4,60,0,No
+EMP00931,43,Finance,Accountant,Doctorate,Full-time,61250,2,2,Yes,4,3,32,1,No
+EMP00932,39,Finance,Accountant,Diploma,Full-time,47583,3,2,No,3,4,3,0,No
+EMP00933,21,Sales,Sales Manager,Master's,Contract,55583,9,9,Yes,2,3,39,2,No
+EMP00934,28,Customer Support,Team Lead,Diploma,Full-time,35666,4,0,No,3,3,22,0,No
+EMP00935,31,Customer Support,Support Specialist,Diploma,Full-time,34666,5,4,No,4,2,18,3,No
+EMP00936,27,Sales,Sales Manager,Doctorate,Full-time,43750,0,0,No,4,2,57,2,No
+EMP00937,24,Finance,Accountant,Bachelor's,Full-time,52250,5,2,No,4,2,35,8,No
+EMP00938,36,Finance,Finance Manager,Bachelor's,Contract,67916,6,2,No,2,2,3,7,Yes
+EMP00939,43,Engineering,Data Analyst,Diploma,Full-time,81333,7,1,No,3,3,20,5,No
+EMP00940,23,Finance,Financial Analyst,Bachelor's,Full-time,58666,2,1,No,1,4,24,6,Yes
+EMP00941,32,Sales,Sales Manager,Doctorate,Full-time,62000,5,5,Yes,4,3,52,3,No
+EMP00942,32,Finance,Finance Manager,Bachelor's,Full-time,48833,2,2,No,1,1,21,8,Yes
+EMP00943,26,Engineering,QA Engineer,Doctorate,Full-time,81583,5,0,Yes,3,3,33,0,No
+EMP00944,27,Engineering,Software Engineer,Doctorate,Full-time,76166,5,4,No,4,3,54,8,No
+EMP00945,36,Engineering,Data Analyst,Diploma,Contract,73916,5,2,Yes,4,2,19,5,No
+EMP00946,33,Engineering,Data Analyst,Bachelor's,Contract,71750,7,5,Yes,1,3,26,7,No
+EMP00947,21,Sales,Sales Executive,Doctorate,Contract,53500,1,1,No,4,3,5,3,Yes
+EMP00948,37,Human Resources,HR Manager,Diploma,Full-time,44083,4,1,No,3,2,52,0,Yes
+EMP00949,40,Human Resources,HR Executive,Bachelor's,Full-time,44833,3,0,Yes,2,3,18,0,No
+EMP00950,37,Finance,Financial Analyst,Diploma,Full-time,67333,5,2,Yes,2,3,47,7,No
+EMP00951,27,Engineering,Engineering Manager,Bachelor's,Full-time,62000,4,3,No,3,4,54,6,No
+EMP00952,39,Human Resources,HR Manager,Bachelor's,Contract,44500,4,0,No,3,1,32,1,No
+EMP00953,21,Finance,Finance Manager,Master's,Full-time,65166,6,5,No,3,2,3,3,No
+EMP00954,33,Engineering,Engineering Manager,Master's,Full-time,63083,7,4,Yes,4,4,15,4,No
+EMP00955,33,Sales,Account Manager,Diploma,Contract,50833,2,2,Yes,3,4,58,4,Yes
+EMP00956,22,Customer Support,Team Lead,Doctorate,Full-time,45666,3,2,No,3,3,53,5,No
+EMP00957,32,Human Resources,HR Executive,Master's,Contract,62166,3,0,Yes,2,2,50,8,No
+EMP00958,33,Engineering,QA Engineer,Bachelor's,Full-time,84000,15,3,No,3,3,31,8,No
+EMP00959,29,Engineering,Engineering Manager,Diploma,Contract,84333,12,8,Yes,4,4,59,8,No
+EMP00960,42,Engineering,Data Analyst,Bachelor's,Full-time,68666,1,0,No,3,1,25,4,No
+EMP00961,40,Sales,Account Manager,Doctorate,Contract,33000,1,0,No,3,2,16,1,No
+EMP00962,45,Finance,Financial Analyst,Doctorate,Contract,47416,3,3,Yes,4,1,2,7,No
+EMP00963,37,Sales,Sales Manager,Diploma,Full-time,56000,8,5,No,2,3,29,4,No
+EMP00964,28,Engineering,Software Engineer,Bachelor's,Full-time,41250,1,0,No,3,1,49,7,No
+EMP00965,33,Engineering,Engineering Manager,Doctorate,Contract,47750,3,3,No,4,4,9,8,No
+EMP00966,21,Engineering,QA Engineer,Master's,Full-time,89666,11,11,No,4,3,3,7,No
+EMP00967,26,Engineering,Software Engineer,Diploma,Full-time,73000,1,0,Yes,2,3,24,2,No
+EMP00968,38,Sales,Sales Executive,Bachelor's,Full-time,57500,7,3,No,4,3,7,3,No
+EMP00969,30,Customer Support,Support Specialist,Bachelor's,Full-time,34333,1,1,No,3,4,27,0,No
+EMP00970,44,Finance,Financial Analyst,Doctorate,Full-time,51333,5,3,No,3,3,43,2,No
+EMP00971,24,Sales,Sales Manager,Bachelor's,Full-time,42750,2,2,No,3,3,44,6,No
+EMP00972,45,Customer Support,Support Manager,Bachelor's,Full-time,44583,5,4,No,2,3,53,2,No
+EMP00973,43,Engineering,QA Engineer,Bachelor's,Contract,34166,2,0,No,3,3,55,6,No
+EMP00974,44,Human Resources,HR Manager,Master's,Full-time,42666,3,3,Yes,4,1,53,1,No
+EMP00975,29,Human Resources,HR Manager,Bachelor's,Full-time,39250,4,2,No,2,3,3,7,No
+EMP00976,28,Engineering,Data Analyst,Bachelor's,Full-time,45416,1,0,No,3,2,45,4,No
+EMP00977,37,Finance,Finance Manager,Master's,Contract,75250,3,0,Yes,4,3,7,4,No
+EMP00978,32,Customer Support,Support Manager,Doctorate,Full-time,43916,5,0,Yes,3,2,60,4,Yes
+EMP00979,42,Finance,Financial Analyst,Doctorate,Full-time,49416,2,2,No,2,4,42,4,No
+EMP00980,39,Engineering,Engineering Manager,Doctorate,Full-time,82750,10,5,Yes,4,4,27,7,No
+EMP00981,30,Sales,Sales Manager,Diploma,Full-time,55333,3,3,No,4,3,55,4,No
+EMP00982,21,Human Resources,HR Manager,Diploma,Contract,34166,8,3,No,3,3,4,7,No
+EMP00983,45,Engineering,Data Analyst,Bachelor's,Contract,58083,2,1,Yes,4,3,34,0,Yes
+EMP00984,45,Sales,Sales Manager,Master's,Contract,40000,0,0,No,1,2,51,0,No
+EMP00985,25,Human Resources,HR Executive,Doctorate,Full-time,46250,3,0,No,3,2,17,7,No
+EMP00986,40,Human Resources,HR Executive,Bachelor's,Contract,40000,5,5,No,1,3,56,8,Yes
+EMP00987,26,Human Resources,HR Manager,Doctorate,Full-time,33833,2,0,Yes,3,3,48,6,No
+EMP00988,24,Engineering,Engineering Manager,Bachelor's,Full-time,73000,3,0,Yes,2,3,58,1,No
+EMP00989,38,Sales,Sales Executive,Master's,Contract,55000,4,1,No,4,2,34,4,No
+EMP00990,47,Finance,Finance Manager,Master's,Full-time,53583,4,4,Yes,1,3,39,1,No
+EMP00991,31,Finance,Accountant,Diploma,Contract,55333,6,2,No,1,1,39,2,No
+EMP00992,32,Customer Support,Support Specialist,Diploma,Full-time,45000,9,7,Yes,4,4,48,1,No
+EMP00993,22,Engineering,Data Analyst,Doctorate,Full-time,61833,3,3,No,4,4,13,7,No
+EMP00994,38,Sales,Sales Executive,Bachelor's,Contract,64333,14,11,No,3,3,60,0,No
+EMP00995,43,Finance,Accountant,Bachelor's,Contract,89916,6,4,No,3,2,37,3,No
+EMP00996,45,Customer Support,Support Manager,Bachelor's,Contract,30833,2,2,Yes,2,3,18,0,No
+EMP00997,36,Engineering,Software Engineer,Doctorate,Full-time,51083,1,1,Yes,1,3,57,0,No
+EMP00998,48,Sales,Sales Executive,Diploma,Contract,39500,0,0,Yes,4,3,2,6,No
+EMP00999,41,Human Resources,Recruiter,Diploma,Full-time,37166,5,1,Yes,2,2,35,0,No
+EMP01000,23,Finance,Accountant,Doctorate,Contract,61500,2,2,No,4,1,56,1,No
+EMP01001,35,Finance,Accountant,Master's,Contract,67833,5,2,No,3,3,31,7,No
+EMP01002,23,Engineering,Engineering Manager,Bachelor's,Full-time,97416,14,14,No,3,3,45,8,No
+EMP01003,40,Sales,Sales Manager,Bachelor's,Contract,65750,1,0,No,3,2,57,4,No
+EMP01004,33,Customer Support,Team Lead,Doctorate,Contract,31916,4,1,No,3,3,39,7,No
+EMP01005,42,Customer Support,Support Manager,Diploma,Full-time,41666,4,0,No,4,4,20,1,No
+EMP01006,27,Customer Support,Team Lead,Bachelor's,Full-time,35166,4,2,No,2,2,26,1,No
+EMP01007,30,Finance,Finance Manager,Diploma,Full-time,46166,3,1,No,1,4,58,0,No
+EMP01008,29,Engineering,QA Engineer,Master's,Full-time,54166,1,0,Yes,4,4,2,6,No
+EMP01009,48,Customer Support,Team Lead,Master's,Contract,27916,0,0,No,4,3,57,3,No
+EMP01010,36,Sales,Sales Manager,Doctorate,Full-time,40000,1,0,Yes,4,3,10,1,Yes
+EMP01011,33,Human Resources,Recruiter,Doctorate,Full-time,45416,2,2,Yes,2,2,51,8,No
+EMP01012,37,Finance,Financial Analyst,Diploma,Contract,61416,7,2,No,3,4,13,5,No
+EMP01013,28,Engineering,Software Engineer,Diploma,Contract,35250,1,0,No,4,2,33,5,No
+EMP01014,21,Engineering,QA Engineer,Bachelor's,Full-time,65166,1,1,No,2,2,11,3,Yes
+EMP01015,35,Human Resources,Recruiter,Master's,Full-time,57500,0,0,Yes,4,3,17,8,No
+EMP01016,35,Finance,Accountant,Bachelor's,Full-time,46500,6,1,No,3,4,27,4,No
+EMP01017,24,Engineering,Engineering Manager,Bachelor's,Full-time,61750,1,0,No,4,3,37,2,No
+EMP01018,37,Engineering,Software Engineer,Diploma,Full-time,72416,11,10,No,3,3,46,4,No
+EMP01019,34,Sales,Sales Manager,Bachelor's,Full-time,31916,3,3,No,2,3,1,8,No
+EMP01020,22,Human Resources,HR Executive,Master's,Full-time,40750,3,2,Yes,4,3,20,5,No
+EMP01021,36,Finance,Finance Manager,Master's,Full-time,55000,0,0,Yes,3,2,54,7,Yes
+EMP01022,23,Sales,Sales Manager,Diploma,Contract,59250,12,5,Yes,1,3,40,1,No
+EMP01023,21,Engineering,Data Analyst,Doctorate,Full-time,70333,2,0,No,2,2,49,2,No
+EMP01024,39,Human Resources,HR Executive,Doctorate,Full-time,38666,3,3,Yes,2,4,44,0,No
+EMP01025,42,Customer Support,Support Specialist,Doctorate,Full-time,31916,8,8,Yes,2,3,43,0,No
+EMP01026,37,Engineering,QA Engineer,Bachelor's,Full-time,66166,0,0,No,3,3,60,7,No
+EMP01027,21,Finance,Finance Manager,Diploma,Full-time,57416,8,0,No,3,3,45,0,No
+EMP01028,34,Engineering,Software Engineer,Master's,Full-time,73166,5,3,Yes,3,3,32,6,Yes
+EMP01029,21,Human Resources,Recruiter,Doctorate,Full-time,48416,3,2,No,2,2,9,0,No
+EMP01030,26,Finance,Financial Analyst,Doctorate,Full-time,58666,3,0,No,4,4,52,3,No
+EMP01031,30,Human Resources,Recruiter,Master's,Full-time,50833,3,2,Yes,4,4,12,8,No
+EMP01032,23,Engineering,Software Engineer,Diploma,Full-time,70916,2,0,No,3,1,29,8,No
+EMP01033,32,Human Resources,HR Executive,Diploma,Full-time,51416,4,4,No,4,2,53,8,No
+EMP01034,34,Human Resources,HR Executive,Master's,Full-time,40250,2,2,No,3,1,27,7,No
+EMP01035,47,Customer Support,Support Manager,Bachelor's,Full-time,30333,3,1,No,4,4,17,8,No
+EMP01036,34,Customer Support,Team Lead,Bachelor's,Full-time,38000,7,7,No,2,4,21,7,No
+EMP01037,40,Customer Support,Team Lead,Master's,Contract,37583,5,5,No,4,2,10,4,No
+EMP01038,23,Finance,Accountant,Diploma,Full-time,48666,2,1,No,4,3,27,0,No
+EMP01039,42,Finance,Finance Manager,Bachelor's,Full-time,64166,1,0,No,3,4,41,8,No
+EMP01040,23,Sales,Account Manager,Diploma,Full-time,59833,8,5,No,2,2,25,6,No
+EMP01041,32,Engineering,QA Engineer,Bachelor's,Contract,63750,6,0,Yes,4,1,16,0,No
+EMP01042,37,Sales,Sales Manager,Diploma,Contract,47000,1,1,No,2,3,3,3,No
+EMP01043,45,Finance,Accountant,Doctorate,Full-time,39000,0,0,No,3,3,30,3,Yes
+EMP01044,34,Customer Support,Support Manager,Master's,Contract,48250,10,8,Yes,3,3,43,7,No
+EMP01045,50,Finance,Finance Manager,Doctorate,Full-time,66583,10,10,Yes,2,2,27,8,No
+EMP01046,28,Human Resources,Recruiter,Doctorate,Contract,51250,4,4,Yes,3,3,41,3,No
+EMP01047,29,Engineering,Software Engineer,Master's,Full-time,61750,1,0,No,4,2,48,5,No
+EMP01048,41,Sales,Account Manager,Doctorate,Full-time,42333,6,6,Yes,4,3,2,6,No
+EMP01049,34,Engineering,Engineering Manager,Bachelor's,Full-time,53750,2,1,Yes,3,3,41,7,No
+EMP01050,40,Human Resources,HR Executive,Bachelor's,Full-time,46833,4,2,No,3,2,6,5,No
+EMP01051,35,Sales,Sales Manager,Master's,Full-time,38166,1,1,No,4,1,34,7,No
+EMP01052,27,Human Resources,Recruiter,Master's,Full-time,41666,8,4,No,2,3,19,0,No
+EMP01053,36,Engineering,Engineering Manager,Doctorate,Full-time,82500,12,7,No,4,2,3,2,No
+EMP01054,46,Customer Support,Support Specialist,Diploma,Full-time,37666,2,2,Yes,3,3,6,6,No
+EMP01055,29,Finance,Financial Analyst,Bachelor's,Full-time,51500,1,0,No,2,3,32,6,No
+EMP01056,31,Human Resources,Recruiter,Doctorate,Contract,35000,2,0,No,4,3,42,1,No
+EMP01057,29,Finance,Financial Analyst,Master's,Contract,66083,3,0,No,4,3,14,7,No
+EMP01058,21,Sales,Account Manager,Diploma,Contract,47666,2,2,No,3,1,55,0,No
+EMP01059,37,Engineering,QA Engineer,Doctorate,Full-time,69500,9,1,No,3,1,57,3,No
+EMP01060,29,Engineering,Software Engineer,Doctorate,Contract,61166,2,1,No,3,4,15,4,Yes
+EMP01061,38,Customer Support,Support Specialist,Diploma,Full-time,45666,8,0,No,3,4,47,4,No
+EMP01062,60,Finance,Accountant,Master's,Contract,67333,5,0,No,3,3,33,3,No
+EMP01063,28,Sales,Sales Manager,Doctorate,Full-time,46416,0,0,No,3,3,9,1,No
+EMP01064,21,Engineering,Data Analyst,Doctorate,Full-time,49500,3,2,No,3,3,48,1,Yes
+EMP01065,55,Sales,Sales Manager,Diploma,Full-time,59500,9,5,No,2,3,60,2,No
+EMP01066,31,Finance,Accountant,Bachelor's,Full-time,78166,0,0,No,3,3,31,0,No
+EMP01067,38,Finance,Accountant,Bachelor's,Full-time,50000,1,0,Yes,3,4,44,1,No
+EMP01068,35,Customer Support,Support Manager,Master's,Full-time,28500,2,0,No,2,3,41,0,No
+EMP01069,29,Sales,Sales Manager,Master's,Contract,66750,6,0,Yes,4,2,56,6,No
+EMP01070,23,Human Resources,HR Manager,Doctorate,Full-time,45416,3,0,No,3,1,9,6,No
+EMP01071,49,Finance,Accountant,Diploma,Full-time,57833,0,0,No,4,3,37,6,Yes
+EMP01072,21,Finance,Financial Analyst,Diploma,Full-time,56916,3,3,Yes,1,2,50,3,Yes
+EMP01073,40,Sales,Account Manager,Master's,Full-time,41750,2,1,No,4,4,12,0,No
+EMP01074,30,Sales,Sales Executive,Diploma,Full-time,69000,4,3,No,4,1,11,4,No
+EMP01075,36,Engineering,Engineering Manager,Diploma,Full-time,62750,8,5,No,4,4,35,1,No
+EMP01076,35,Human Resources,Recruiter,Doctorate,Full-time,34666,2,2,Yes,3,4,13,1,No
+EMP01077,35,Human Resources,Recruiter,Master's,Full-time,51916,6,5,No,1,3,23,3,No
+EMP01078,28,Human Resources,HR Executive,Master's,Contract,47333,4,3,No,3,4,16,6,No
+EMP01079,38,Engineering,Software Engineer,Master's,Contract,64250,2,0,Yes,2,3,49,0,Yes
+EMP01080,35,Sales,Account Manager,Bachelor's,Full-time,50416,3,2,No,3,1,47,6,No
+EMP01081,25,Sales,Sales Manager,Bachelor's,Full-time,51750,3,0,No,2,4,27,2,No
+EMP01082,21,Human Resources,Recruiter,Diploma,Full-time,50833,1,0,Yes,4,4,26,0,No
+EMP01083,25,Human Resources,HR Manager,Doctorate,Full-time,41583,4,4,Yes,3,3,26,4,No
+EMP01084,23,Finance,Financial Analyst,Diploma,Full-time,65416,5,3,No,2,4,37,6,No
+EMP01085,30,Customer Support,Support Specialist,Bachelor's,Full-time,28000,4,3,No,2,4,1,1,No
+EMP01086,37,Finance,Finance Manager,Master's,Full-time,60416,7,2,No,3,4,41,3,No
+EMP01087,35,Customer Support,Support Manager,Master's,Full-time,36000,6,2,No,2,3,11,6,Yes
+EMP01088,45,Customer Support,Support Specialist,Diploma,Full-time,37000,6,5,No,1,3,39,1,No
+EMP01089,30,Finance,Accountant,Bachelor's,Full-time,49333,3,0,Yes,4,3,60,4,Yes
+EMP01090,39,Customer Support,Support Manager,Doctorate,Full-time,31250,2,2,Yes,4,4,34,5,No
+EMP01091,38,Human Resources,HR Manager,Bachelor's,Full-time,46083,3,2,Yes,3,2,56,5,Yes
+EMP01092,32,Sales,Sales Executive,Bachelor's,Full-time,53333,8,3,No,3,3,5,7,No
+EMP01093,37,Human Resources,HR Executive,Doctorate,Full-time,39916,2,2,No,2,3,25,3,No
+EMP01094,43,Finance,Finance Manager,Diploma,Full-time,65000,2,1,No,4,2,33,4,No
+EMP01095,39,Human Resources,HR Manager,Doctorate,Full-time,43916,10,4,No,3,3,12,2,No
+EMP01096,31,Human Resources,HR Manager,Bachelor's,Full-time,44833,7,0,No,4,2,38,5,No
+EMP01097,32,Finance,Accountant,Doctorate,Contract,54000,7,6,No,3,3,53,5,No
+EMP01098,22,Engineering,QA Engineer,Doctorate,Full-time,59583,1,1,No,3,2,22,1,No
+EMP01099,47,Human Resources,HR Manager,Diploma,Full-time,49916,5,4,No,1,4,36,6,No
+EMP01100,34,Human Resources,HR Executive,Doctorate,Full-time,50750,1,0,Yes,2,2,7,7,Yes
+EMP01101,38,Customer Support,Team Lead,Master's,Full-time,32166,3,0,No,4,4,53,7,No
+EMP01102,26,Engineering,QA Engineer,Master's,Full-time,64166,3,0,Yes,3,3,44,8,No
+EMP01103,42,Customer Support,Support Manager,Master's,Full-time,39333,1,0,No,3,2,8,1,No
+EMP01104,42,Human Resources,HR Manager,Doctorate,Full-time,47333,2,0,No,4,3,8,5,No
+EMP01105,21,Finance,Accountant,Doctorate,Full-time,33166,0,0,No,3,4,43,3,No
+EMP01106,40,Engineering,Engineering Manager,Diploma,Full-time,58750,2,1,No,4,4,5,2,No
+EMP01107,41,Customer Support,Team Lead,Diploma,Contract,25583,4,2,No,3,3,30,2,No
+EMP01108,49,Human Resources,Recruiter,Diploma,Full-time,35500,1,0,No,3,2,25,2,Yes
+EMP01109,37,Finance,Finance Manager,Master's,Full-time,52000,1,0,No,4,3,39,6,No
+EMP01110,29,Customer Support,Support Manager,Doctorate,Full-time,53416,11,4,No,4,3,14,7,No
+EMP01111,30,Finance,Accountant,Diploma,Contract,50500,4,3,Yes,1,3,42,3,No
+EMP01112,36,Finance,Accountant,Doctorate,Contract,50833,2,0,No,3,1,43,8,No
+EMP01113,27,Sales,Sales Manager,Diploma,Full-time,42250,0,0,No,2,3,3,3,No
+EMP01114,33,Customer Support,Team Lead,Doctorate,Full-time,32000,1,0,No,4,3,2,3,No
+EMP01115,34,Engineering,Engineering Manager,Doctorate,Full-time,45750,4,1,No,3,2,30,2,No
+EMP01116,22,Sales,Sales Executive,Bachelor's,Contract,42500,2,0,No,4,4,1,8,No
+EMP01117,21,Engineering,Data Analyst,Bachelor's,Full-time,63083,4,4,No,4,3,10,8,No
+EMP01118,24,Customer Support,Support Specialist,Bachelor's,Full-time,33166,2,0,No,3,3,49,3,No
+EMP01119,39,Engineering,Data Analyst,Bachelor's,Full-time,83750,3,3,No,4,1,18,6,No
+EMP01120,39,Customer Support,Support Manager,Doctorate,Full-time,24416,5,4,No,4,2,13,8,No
+EMP01121,40,Engineering,Software Engineer,Diploma,Full-time,59500,5,3,Yes,2,3,9,4,Yes
+EMP01122,27,Engineering,Software Engineer,Doctorate,Contract,58416,2,0,No,3,4,53,1,Yes
+EMP01123,45,Finance,Finance Manager,Bachelor's,Contract,42666,1,1,No,3,2,5,6,No
+EMP01124,43,Customer Support,Support Manager,Doctorate,Contract,28833,2,0,No,4,3,57,8,No
+EMP01125,33,Engineering,QA Engineer,Master's,Contract,67750,7,5,Yes,3,3,6,8,No
+EMP01126,39,Engineering,Software Engineer,Master's,Full-time,84416,7,3,No,3,4,41,4,No
+EMP01127,24,Finance,Finance Manager,Diploma,Full-time,65333,3,2,No,1,3,38,2,No
+EMP01128,24,Finance,Accountant,Bachelor's,Full-time,45916,1,1,No,4,4,14,6,No
+EMP01129,23,Sales,Sales Manager,Doctorate,Full-time,53750,4,2,No,2,3,14,5,Yes
+EMP01130,22,Sales,Account Manager,Diploma,Contract,43750,6,6,No,3,3,20,5,No
+EMP01131,45,Engineering,Software Engineer,Diploma,Full-time,72083,4,2,Yes,4,4,58,6,No
+EMP01132,23,Customer Support,Support Manager,Master's,Full-time,28250,2,0,No,1,2,9,5,No
+EMP01133,30,Human Resources,HR Manager,Bachelor's,Full-time,50583,5,4,Yes,4,4,10,7,No
+EMP01134,34,Customer Support,Support Manager,Master's,Full-time,26000,4,4,No,1,3,9,6,No
+EMP01135,38,Sales,Account Manager,Diploma,Full-time,48166,3,3,Yes,4,3,57,0,No
+EMP01136,30,Finance,Finance Manager,Bachelor's,Full-time,49750,2,1,No,3,4,58,7,No
+EMP01137,34,Engineering,Data Analyst,Bachelor's,Contract,84416,14,12,No,1,4,27,1,Yes
+EMP01138,51,Human Resources,HR Executive,Doctorate,Contract,40250,5,2,Yes,2,3,56,2,Yes
+EMP01139,30,Customer Support,Support Specialist,Master's,Full-time,28000,3,1,No,1,3,59,3,No
+EMP01140,38,Sales,Account Manager,Bachelor's,Full-time,32333,5,1,No,3,2,33,0,No
+EMP01141,23,Human Resources,HR Manager,Master's,Full-time,42750,3,0,No,4,4,46,6,No
+EMP01142,37,Engineering,QA Engineer,Master's,Full-time,58333,0,0,No,1,2,20,8,No
+EMP01143,27,Customer Support,Team Lead,Bachelor's,Full-time,37250,7,5,No,4,3,24,7,No
+EMP01144,38,Finance,Finance Manager,Diploma,Contract,57333,1,1,No,3,2,15,0,No
+EMP01145,37,Customer Support,Support Specialist,Doctorate,Full-time,37250,5,1,Yes,3,4,7,1,Yes
+EMP01146,42,Finance,Finance Manager,Diploma,Full-time,60916,3,2,No,1,3,26,8,No
+EMP01147,31,Sales,Account Manager,Bachelor's,Full-time,37916,2,1,No,2,1,11,3,No
+EMP01148,32,Customer Support,Team Lead,Doctorate,Contract,35166,3,0,No,3,2,16,6,No
+EMP01149,37,Sales,Account Manager,Doctorate,Full-time,50666,3,2,Yes,4,2,31,8,No
+EMP01150,32,Customer Support,Team Lead,Bachelor's,Contract,44666,2,1,No,2,4,30,3,No
+EMP01151,41,Customer Support,Support Manager,Doctorate,Contract,38333,2,2,No,3,2,35,3,No
+EMP01152,49,Sales,Sales Manager,Master's,Full-time,63583,12,1,No,4,3,59,8,No
+EMP01153,39,Engineering,Engineering Manager,Doctorate,Full-time,73916,4,2,No,3,1,25,3,No
+EMP01154,41,Finance,Accountant,Bachelor's,Full-time,62333,11,7,Yes,4,3,11,1,No
+EMP01155,43,Human Resources,Recruiter,Doctorate,Contract,38333,4,4,Yes,3,3,14,0,No
+EMP01156,41,Customer Support,Support Specialist,Doctorate,Full-time,46666,4,1,Yes,4,3,35,7,No
+EMP01157,35,Customer Support,Support Specialist,Bachelor's,Full-time,35083,4,1,No,3,3,27,6,No
+EMP01158,33,Finance,Accountant,Doctorate,Full-time,70750,3,1,No,3,4,38,3,No
+EMP01159,40,Customer Support,Support Specialist,Doctorate,Full-time,52583,6,4,No,2,2,51,4,No
+EMP01160,25,Human Resources,HR Manager,Master's,Full-time,49500,3,0,Yes,3,2,30,0,No
+EMP01161,42,Customer Support,Support Manager,Diploma,Full-time,43583,8,5,Yes,3,4,10,5,No
+EMP01162,40,Sales,Account Manager,Bachelor's,Full-time,45083,1,1,No,2,3,17,8,No
+EMP01163,27,Human Resources,HR Manager,Doctorate,Full-time,42833,4,1,No,4,4,39,0,No
+EMP01164,31,Engineering,Engineering Manager,Doctorate,Full-time,88833,2,1,No,1,1,7,7,No
+EMP01165,39,Engineering,Engineering Manager,Bachelor's,Contract,73500,3,2,No,4,4,53,6,No
+EMP01166,21,Sales,Sales Executive,Bachelor's,Full-time,38750,2,2,No,3,4,12,3,No
+EMP01167,30,Sales,Account Manager,Master's,Contract,37833,1,0,No,4,3,45,8,No
+EMP01168,22,Customer Support,Support Specialist,Bachelor's,Full-time,44666,0,0,No,2,4,53,1,No
+EMP01169,45,Customer Support,Support Manager,Bachelor's,Full-time,34666,7,0,Yes,1,3,18,8,Yes
+EMP01170,39,Engineering,Software Engineer,Doctorate,Full-time,66833,4,3,No,4,3,32,1,No
+EMP01171,35,Human Resources,Recruiter,Bachelor's,Full-time,43583,2,2,Yes,2,4,25,5,No
+EMP01172,30,Finance,Finance Manager,Bachelor's,Full-time,62416,16,7,Yes,3,4,1,3,No
+EMP01173,30,Customer Support,Support Specialist,Bachelor's,Full-time,40083,7,4,No,1,4,55,4,Yes
+EMP01174,26,Sales,Sales Manager,Doctorate,Full-time,50416,4,2,No,4,4,23,1,No
+EMP01175,27,Engineering,Engineering Manager,Master's,Full-time,70750,9,7,No,3,2,18,4,No
+EMP01176,30,Customer Support,Team Lead,Bachelor's,Contract,40416,4,1,No,2,4,5,5,No
+EMP01177,35,Human Resources,HR Executive,Doctorate,Full-time,50833,4,2,No,4,4,45,8,No
+EMP01178,38,Human Resources,HR Manager,Master's,Full-time,55416,7,1,No,1,3,36,6,No
+EMP01179,51,Finance,Accountant,Master's,Contract,48000,3,0,Yes,3,4,42,8,Yes
+EMP01180,31,Engineering,Software Engineer,Diploma,Full-time,81916,1,0,No,4,4,59,0,No
+EMP01181,37,Finance,Accountant,Doctorate,Full-time,60833,6,0,No,2,3,46,5,No
+EMP01182,21,Human Resources,HR Executive,Doctorate,Full-time,58000,12,4,No,3,2,4,7,No
+EMP01183,38,Engineering,QA Engineer,Doctorate,Full-time,68583,3,2,No,2,3,49,1,No
+EMP01184,33,Customer Support,Support Specialist,Diploma,Full-time,33750,5,0,No,2,3,36,6,No
+EMP01185,32,Engineering,Data Analyst,Doctorate,Contract,88500,3,3,No,4,3,48,7,No
+EMP01186,59,Sales,Account Manager,Diploma,Full-time,48250,1,1,No,1,4,55,7,No
+EMP01187,35,Sales,Account Manager,Diploma,Full-time,50833,5,5,No,2,3,20,8,No
+EMP01188,30,Engineering,Software Engineer,Bachelor's,Full-time,76166,4,2,Yes,4,3,51,1,No
+EMP01189,34,Engineering,Data Analyst,Bachelor's,Full-time,73666,3,3,Yes,4,2,39,6,No
+EMP01190,44,Finance,Accountant,Doctorate,Contract,42416,2,1,Yes,3,2,31,8,No
+EMP01191,34,Engineering,QA Engineer,Diploma,Contract,77000,3,2,No,4,2,23,1,No
+EMP01192,40,Finance,Financial Analyst,Doctorate,Full-time,59916,5,1,No,4,4,33,1,No
+EMP01193,28,Customer Support,Support Manager,Bachelor's,Full-time,33250,2,1,No,2,4,26,7,Yes
+EMP01194,27,Sales,Sales Manager,Diploma,Full-time,49166,1,0,No,3,1,11,4,No
+EMP01195,32,Human Resources,HR Executive,Diploma,Contract,54750,3,1,Yes,2,3,41,4,No
+EMP01196,30,Sales,Sales Executive,Diploma,Full-time,53166,6,1,No,1,4,3,7,No
+EMP01197,31,Customer Support,Support Specialist,Diploma,Full-time,30333,0,0,Yes,3,3,58,0,No
+EMP01198,42,Customer Support,Support Specialist,Doctorate,Contract,43666,5,5,Yes,3,2,21,2,No
+EMP01199,35,Customer Support,Support Manager,Doctorate,Full-time,35333,1,1,No,1,3,38,5,No
+EMP01200,45,Engineering,Engineering Manager,Doctorate,Full-time,52166,2,1,Yes,2,3,39,1,No
+EMP01201,35,Sales,Account Manager,Diploma,Full-time,44083,7,4,No,2,2,25,5,Yes
+EMP01202,41,Sales,Sales Executive,Master's,Contract,57416,4,0,No,3,3,14,4,No
+EMP01203,36,Human Resources,HR Manager,Doctorate,Full-time,37916,4,4,Yes,3,4,16,4,No
+EMP01204,33,Human Resources,Recruiter,Diploma,Full-time,42666,1,1,No,3,1,41,3,Yes
+EMP01205,30,Engineering,Engineering Manager,Bachelor's,Full-time,93500,7,4,No,2,2,16,0,Yes
+EMP01206,39,Sales,Sales Manager,Bachelor's,Full-time,38333,3,2,No,1,3,2,6,No
+EMP01207,21,Engineering,Data Analyst,Bachelor's,Full-time,62000,2,2,Yes,3,3,12,1,Yes
+EMP01208,36,Sales,Account Manager,Doctorate,Full-time,47083,1,0,No,3,3,22,1,No
+EMP01209,43,Finance,Finance Manager,Diploma,Contract,27333,3,3,No,2,2,55,8,No
+EMP01210,33,Sales,Account Manager,Bachelor's,Contract,67333,3,1,Yes,4,4,60,0,Yes
+EMP01211,49,Customer Support,Support Specialist,Bachelor's,Full-time,38250,2,0,No,3,3,10,8,Yes
+EMP01212,48,Sales,Sales Manager,Diploma,Contract,42833,3,2,Yes,2,3,42,3,Yes
+EMP01213,47,Sales,Sales Manager,Bachelor's,Full-time,54833,2,2,No,4,3,3,8,No
+EMP01214,46,Sales,Sales Executive,Bachelor's,Full-time,74750,8,3,No,4,4,52,7,No
+EMP01215,32,Customer Support,Team Lead,Doctorate,Contract,33666,3,0,No,1,2,2,1,No
+EMP01216,46,Engineering,Data Analyst,Bachelor's,Full-time,78000,5,5,No,2,3,22,6,No
+EMP01217,36,Sales,Sales Executive,Bachelor's,Full-time,44416,0,0,No,4,2,56,2,No
+EMP01218,36,Finance,Financial Analyst,Bachelor's,Full-time,50416,2,2,No,4,3,41,3,No
+EMP01219,29,Sales,Sales Manager,Doctorate,Full-time,45250,2,2,No,1,4,20,7,No
+EMP01220,29,Finance,Finance Manager,Diploma,Full-time,51333,0,0,No,4,4,45,3,No
+EMP01221,33,Finance,Accountant,Diploma,Full-time,81166,11,4,Yes,1,2,46,8,No
+EMP01222,35,Sales,Account Manager,Master's,Contract,48750,13,2,No,3,4,46,0,No
+EMP01223,29,Human Resources,HR Executive,Master's,Full-time,37833,2,2,Yes,4,2,33,1,No
+EMP01224,32,Sales,Sales Executive,Master's,Contract,52083,3,1,No,4,4,41,2,No
+EMP01225,29,Customer Support,Team Lead,Bachelor's,Full-time,36000,3,2,No,4,3,48,5,No
+EMP01226,33,Sales,Sales Executive,Diploma,Full-time,46416,3,3,No,2,3,42,8,No
+EMP01227,30,Finance,Finance Manager,Bachelor's,Contract,48750,0,0,No,3,4,40,4,No
+EMP01228,41,Sales,Sales Manager,Diploma,Contract,54166,5,3,No,4,3,25,0,No
+EMP01229,33,Sales,Sales Manager,Diploma,Full-time,40083,1,0,No,3,3,56,8,No
+EMP01230,40,Engineering,Software Engineer,Diploma,Full-time,49333,2,2,No,3,4,29,1,No
+EMP01231,28,Engineering,Engineering Manager,Doctorate,Full-time,72083,5,5,Yes,4,4,48,3,No
+EMP01232,23,Sales,Sales Executive,Bachelor's,Full-time,31083,1,0,No,3,3,54,7,No
+EMP01233,24,Engineering,Software Engineer,Diploma,Contract,53916,3,2,Yes,3,3,12,5,No
+EMP01234,21,Customer Support,Support Specialist,Doctorate,Full-time,46833,2,0,No,1,3,13,6,No
+EMP01235,52,Engineering,Software Engineer,Doctorate,Contract,65166,2,0,No,3,4,18,6,No
+EMP01236,39,Sales,Sales Executive,Master's,Full-time,56750,3,0,No,4,2,41,3,No
+EMP01237,37,Customer Support,Team Lead,Diploma,Full-time,46416,4,4,No,4,4,12,7,No
+EMP01238,45,Human Resources,HR Executive,Master's,Full-time,66916,12,5,No,4,3,16,1,No
+EMP01239,36,Finance,Finance Manager,Bachelor's,Full-time,59166,5,3,Yes,4,3,37,1,No
+EMP01240,29,Finance,Accountant,Doctorate,Contract,76166,14,10,No,4,3,26,5,No
+EMP01241,24,Human Resources,HR Manager,Diploma,Full-time,39666,5,3,Yes,1,3,33,7,Yes
+EMP01242,21,Human Resources,HR Manager,Doctorate,Full-time,29583,2,2,Yes,4,4,12,3,No
+EMP01243,31,Engineering,Data Analyst,Doctorate,Contract,62916,2,2,No,1,1,52,2,No
+EMP01244,38,Finance,Finance Manager,Doctorate,Full-time,71000,9,7,No,1,3,44,0,No
+EMP01245,37,Sales,Sales Executive,Bachelor's,Contract,49166,3,0,Yes,3,2,30,2,No
+EMP01246,30,Finance,Finance Manager,Bachelor's,Full-time,61500,4,1,No,3,3,35,0,No
+EMP01247,42,Sales,Sales Manager,Diploma,Contract,46666,1,0,Yes,1,4,42,1,Yes
+EMP01248,44,Sales,Account Manager,Doctorate,Full-time,37500,4,1,No,3,1,47,1,No
+EMP01249,34,Finance,Accountant,Bachelor's,Full-time,42583,2,0,No,1,3,39,1,No
+EMP01250,43,Customer Support,Support Specialist,Master's,Full-time,31250,2,0,No,3,3,6,7,No
+EMP01251,25,Sales,Sales Manager,Bachelor's,Full-time,40666,2,0,No,3,3,27,5,No
+EMP01252,35,Sales,Sales Manager,Diploma,Full-time,44083,3,0,No,4,3,26,2,No
+EMP01253,21,Human Resources,Recruiter,Master's,Contract,43583,4,2,No,2,2,24,5,Yes
+EMP01254,33,Customer Support,Support Manager,Doctorate,Contract,48583,10,1,Yes,4,4,49,4,No
+EMP01255,28,Sales,Sales Executive,Bachelor's,Contract,60750,9,6,Yes,3,3,43,7,No
+EMP01256,27,Finance,Finance Manager,Doctorate,Full-time,62666,6,4,No,3,3,35,6,No
+EMP01257,33,Sales,Account Manager,Doctorate,Full-time,49583,6,3,No,4,3,38,0,Yes
+EMP01258,32,Finance,Finance Manager,Master's,Full-time,55583,4,4,No,2,2,52,5,No
+EMP01259,27,Engineering,QA Engineer,Bachelor's,Full-time,71000,2,1,No,2,2,40,8,No
+EMP01260,34,Engineering,Engineering Manager,Diploma,Contract,71916,2,2,No,3,3,15,8,No
+EMP01261,34,Finance,Financial Analyst,Bachelor's,Full-time,64666,1,0,No,3,3,48,6,No
+EMP01262,41,Customer Support,Support Specialist,Doctorate,Contract,39166,11,10,No,2,3,14,1,Yes
+EMP01263,27,Human Resources,Recruiter,Master's,Full-time,46916,8,4,No,3,3,2,0,No
+EMP01264,39,Sales,Sales Executive,Doctorate,Full-time,60083,2,0,No,2,2,58,4,No
+EMP01265,40,Customer Support,Team Lead,Doctorate,Contract,33250,10,1,Yes,2,3,35,4,No
+EMP01266,34,Finance,Accountant,Bachelor's,Full-time,56666,2,0,No,2,3,36,5,No
+EMP01267,49,Sales,Sales Executive,Diploma,Full-time,60416,2,1,Yes,2,3,31,2,No
+EMP01268,38,Human Resources,HR Manager,Bachelor's,Full-time,44666,5,5,Yes,4,1,7,7,No
+EMP01269,39,Finance,Accountant,Doctorate,Full-time,52250,3,2,No,3,4,17,2,No
+EMP01270,41,Customer Support,Support Specialist,Master's,Full-time,43416,7,4,Yes,4,4,40,5,No
+EMP01271,32,Human Resources,HR Manager,Bachelor's,Full-time,52500,5,0,Yes,3,4,39,2,No
+EMP01272,30,Engineering,Software Engineer,Diploma,Full-time,69750,4,2,Yes,4,4,24,5,No
+EMP01273,29,Finance,Financial Analyst,Doctorate,Full-time,50416,4,2,No,3,4,35,0,No
+EMP01274,37,Customer Support,Support Manager,Master's,Full-time,36500,5,4,Yes,4,3,28,5,No
+EMP01275,21,Human Resources,HR Executive,Doctorate,Full-time,46833,2,2,No,3,2,47,8,No
+EMP01276,47,Engineering,Engineering Manager,Master's,Full-time,54833,4,4,No,4,3,15,0,No
+EMP01277,25,Customer Support,Support Manager,Diploma,Full-time,29500,1,1,No,4,3,35,5,No
+EMP01278,41,Sales,Account Manager,Master's,Contract,65666,9,4,No,3,3,34,7,No
+EMP01279,28,Human Resources,Recruiter,Master's,Full-time,44500,3,2,No,4,4,34,6,No
+EMP01280,31,Finance,Finance Manager,Master's,Full-time,69000,6,6,Yes,3,3,6,0,No
+EMP01281,32,Finance,Financial Analyst,Bachelor's,Full-time,78500,7,2,No,4,2,2,8,No
+EMP01282,29,Customer Support,Team Lead,Master's,Full-time,43083,9,2,No,4,3,38,5,No
+EMP01283,34,Sales,Account Manager,Doctorate,Full-time,61000,4,4,No,3,3,42,5,No
+EMP01284,50,Finance,Financial Analyst,Doctorate,Full-time,64750,5,1,No,3,3,42,0,No
+EMP01285,57,Finance,Financial Analyst,Bachelor's,Full-time,56833,5,3,No,2,3,1,6,No
+EMP01286,35,Customer Support,Team Lead,Bachelor's,Full-time,35500,2,0,Yes,4,3,26,0,No
+EMP01287,31,Customer Support,Support Manager,Master's,Full-time,49500,9,1,No,2,3,36,4,No
+EMP01288,51,Customer Support,Support Specialist,Doctorate,Full-time,30000,2,2,No,2,3,4,2,Yes
+EMP01289,35,Human Resources,Recruiter,Diploma,Full-time,40333,3,1,Yes,2,3,59,8,No
+EMP01290,26,Customer Support,Team Lead,Doctorate,Full-time,37166,8,0,No,3,3,24,0,No
+EMP01291,21,Finance,Financial Analyst,Master's,Full-time,53083,3,1,No,3,2,58,0,No
+EMP01292,39,Sales,Account Manager,Diploma,Full-time,43083,0,0,No,3,3,22,0,Yes
+EMP01293,46,Customer Support,Support Specialist,Diploma,Contract,36833,6,4,Yes,3,4,43,7,No
+EMP01294,51,Sales,Account Manager,Doctorate,Full-time,48583,5,4,Yes,3,1,23,3,Yes
+EMP01295,31,Human Resources,HR Executive,Diploma,Full-time,25916,2,2,Yes,4,4,13,6,No
+EMP01296,26,Customer Support,Support Manager,Diploma,Full-time,45500,3,2,Yes,3,3,18,1,No
+EMP01297,57,Human Resources,HR Executive,Bachelor's,Full-time,40000,0,0,Yes,3,3,53,5,Yes
+EMP01298,35,Human Resources,HR Manager,Diploma,Full-time,53000,5,0,No,2,3,20,3,No
+EMP01299,35,Human Resources,HR Manager,Diploma,Full-time,49250,6,3,Yes,3,3,8,1,No
+EMP01300,28,Finance,Finance Manager,Master's,Full-time,53250,3,0,No,3,3,44,7,No
+EMP01301,24,Engineering,Software Engineer,Master's,Full-time,83333,11,2,No,4,3,59,2,No
+EMP01302,24,Human Resources,HR Manager,Bachelor's,Contract,44500,4,1,Yes,3,3,50,4,No
+EMP01303,45,Finance,Finance Manager,Bachelor's,Full-time,59750,0,0,Yes,3,3,19,0,No
+EMP01304,23,Engineering,Software Engineer,Master's,Contract,69250,2,2,No,3,4,48,1,No
+EMP01305,45,Engineering,QA Engineer,Diploma,Full-time,47000,2,0,No,3,2,5,6,No
+EMP01306,42,Finance,Financial Analyst,Diploma,Full-time,49166,3,2,No,3,3,30,3,No
+EMP01307,30,Finance,Financial Analyst,Master's,Full-time,51916,1,1,No,3,2,6,1,No
+EMP01308,30,Finance,Finance Manager,Diploma,Full-time,68333,9,2,No,4,3,14,4,No
+EMP01309,29,Finance,Finance Manager,Doctorate,Full-time,46833,2,2,No,3,2,21,7,Yes
+EMP01310,21,Customer Support,Support Specialist,Bachelor's,Full-time,41833,1,1,Yes,2,2,13,1,No
+EMP01311,43,Finance,Financial Analyst,Master's,Full-time,38166,1,0,Yes,2,3,13,1,No
+EMP01312,33,Sales,Sales Executive,Diploma,Full-time,56500,2,0,No,2,3,6,7,No
+EMP01313,37,Sales,Sales Executive,Master's,Full-time,56333,3,3,Yes,3,4,17,4,No
+EMP01314,47,Human Resources,HR Manager,Diploma,Full-time,52083,1,1,No,2,4,48,7,No
+EMP01315,28,Sales,Sales Executive,Master's,Contract,51583,6,0,No,2,4,50,2,No
+EMP01316,30,Finance,Finance Manager,Diploma,Full-time,65000,6,0,Yes,4,3,42,0,No
+EMP01317,26,Customer Support,Team Lead,Master's,Full-time,41500,2,1,No,2,2,45,5,Yes
+EMP01318,40,Human Resources,Recruiter,Master's,Contract,47000,0,0,No,3,4,54,7,No
+EMP01319,31,Human Resources,Recruiter,Master's,Full-time,55250,7,4,No,4,2,5,3,No
+EMP01320,47,Finance,Financial Analyst,Master's,Full-time,39416,2,1,Yes,4,3,21,1,Yes
+EMP01321,31,Customer Support,Support Specialist,Master's,Full-time,52916,11,8,No,3,1,23,7,No
+EMP01322,36,Engineering,QA Engineer,Bachelor's,Full-time,49416,0,0,No,2,3,49,6,Yes
+EMP01323,34,Finance,Financial Analyst,Doctorate,Full-time,56333,5,1,No,1,4,56,0,Yes
+EMP01324,35,Finance,Financial Analyst,Diploma,Full-time,50833,4,3,No,4,4,11,8,No
+EMP01325,33,Sales,Account Manager,Diploma,Full-time,27000,3,0,No,3,2,46,0,No
+EMP01326,34,Finance,Financial Analyst,Bachelor's,Full-time,53083,6,0,No,2,3,10,5,No
+EMP01327,36,Engineering,QA Engineer,Master's,Full-time,71000,2,0,No,4,3,1,3,No
+EMP01328,31,Sales,Sales Manager,Master's,Full-time,45250,8,8,No,4,2,14,1,No
+EMP01329,34,Finance,Financial Analyst,Diploma,Full-time,72250,1,0,No,2,4,47,7,No
+EMP01330,28,Finance,Accountant,Doctorate,Full-time,46500,2,2,No,3,2,40,7,No
+EMP01331,21,Finance,Financial Analyst,Master's,Full-time,51333,8,1,Yes,3,4,48,4,No
+EMP01332,39,Finance,Financial Analyst,Doctorate,Full-time,51166,5,0,No,3,3,28,0,No
+EMP01333,23,Sales,Sales Executive,Diploma,Full-time,47500,4,0,No,4,3,1,0,No
+EMP01334,21,Human Resources,HR Executive,Master's,Full-time,35666,3,1,No,1,1,45,7,No
+EMP01335,30,Human Resources,HR Manager,Diploma,Full-time,39250,1,1,Yes,2,4,24,8,No
+EMP01336,27,Sales,Sales Executive,Bachelor's,Contract,59583,1,0,No,2,3,21,8,No
+EMP01337,30,Human Resources,HR Manager,Diploma,Contract,57333,5,3,Yes,4,3,43,4,No
+EMP01338,31,Engineering,QA Engineer,Bachelor's,Contract,62750,2,0,No,3,3,60,1,No
+EMP01339,37,Engineering,QA Engineer,Doctorate,Full-time,60750,0,0,No,3,4,56,8,No
+EMP01340,42,Sales,Sales Executive,Bachelor's,Full-time,54000,1,1,No,4,2,39,8,No
+EMP01341,41,Sales,Sales Executive,Bachelor's,Full-time,42416,8,7,No,3,2,7,0,No
+EMP01342,30,Sales,Account Manager,Diploma,Full-time,41500,1,1,Yes,2,4,58,6,Yes
+EMP01343,21,Customer Support,Support Manager,Bachelor's,Contract,38250,4,1,Yes,3,2,19,4,Yes
+EMP01344,23,Sales,Sales Manager,Bachelor's,Full-time,52833,3,1,Yes,2,3,12,5,No
+EMP01345,48,Customer Support,Support Manager,Bachelor's,Contract,43750,5,4,Yes,2,2,42,2,No
+EMP01346,42,Sales,Sales Executive,Doctorate,Contract,39666,1,1,No,2,3,11,5,Yes
+EMP01347,47,Finance,Accountant,Master's,Full-time,80500,9,5,No,3,4,4,4,No
+EMP01348,29,Engineering,QA Engineer,Bachelor's,Full-time,58000,0,0,No,1,4,46,1,No
+EMP01349,32,Finance,Finance Manager,Master's,Full-time,54000,1,1,No,4,1,54,4,No
+EMP01350,26,Engineering,QA Engineer,Master's,Contract,63833,9,2,No,4,4,6,2,No
+EMP01351,28,Finance,Accountant,Doctorate,Full-time,66916,8,6,No,3,2,17,4,No
+EMP01352,32,Sales,Sales Manager,Bachelor's,Full-time,63500,9,7,Yes,3,3,47,2,No
+EMP01353,36,Customer Support,Support Specialist,Diploma,Full-time,33916,6,3,No,2,4,51,6,No
+EMP01354,44,Finance,Financial Analyst,Bachelor's,Contract,68583,7,6,No,4,3,48,0,No
+EMP01355,35,Finance,Financial Analyst,Bachelor's,Full-time,53250,6,1,No,2,3,51,1,No
+EMP01356,34,Sales,Sales Manager,Bachelor's,Full-time,74000,7,7,No,2,2,57,0,No
+EMP01357,27,Human Resources,Recruiter,Master's,Contract,38166,8,1,No,3,3,16,1,No
+EMP01358,23,Human Resources,HR Manager,Master's,Contract,42000,1,1,No,3,3,14,4,No
+EMP01359,21,Engineering,Engineering Manager,Doctorate,Full-time,71416,5,5,No,4,3,8,6,No
+EMP01360,24,Customer Support,Support Specialist,Doctorate,Full-time,35666,2,0,No,1,4,26,6,Yes
+EMP01361,34,Sales,Sales Executive,Bachelor's,Full-time,45916,2,0,No,4,3,22,6,Yes
+EMP01362,23,Finance,Finance Manager,Diploma,Full-time,67750,3,0,Yes,2,3,53,1,No
+EMP01363,30,Sales,Sales Manager,Master's,Full-time,42416,2,0,No,4,3,45,1,No
+EMP01364,33,Customer Support,Team Lead,Bachelor's,Full-time,40500,4,1,No,3,2,20,8,No
+EMP01365,24,Engineering,QA Engineer,Diploma,Full-time,54416,1,1,No,2,2,58,4,No
+EMP01366,21,Engineering,Software Engineer,Doctorate,Full-time,48416,3,2,Yes,4,3,14,4,No
+EMP01367,36,Human Resources,HR Manager,Master's,Full-time,33083,0,0,No,3,3,60,7,No
+EMP01368,41,Human Resources,HR Manager,Bachelor's,Full-time,34500,4,1,No,3,3,5,7,No
+EMP01369,45,Sales,Sales Executive,Master's,Full-time,46250,0,0,Yes,3,3,57,3,No
+EMP01370,33,Human Resources,HR Executive,Master's,Full-time,51250,7,6,No,2,3,39,8,No
+EMP01371,34,Engineering,Data Analyst,Doctorate,Full-time,59083,1,0,No,2,4,36,8,No
+EMP01372,50,Customer Support,Team Lead,Master's,Full-time,35000,11,10,Yes,3,1,40,8,No
+EMP01373,21,Engineering,Software Engineer,Master's,Contract,49000,5,3,No,4,2,35,1,No
+EMP01374,54,Sales,Sales Executive,Bachelor's,Full-time,51000,1,0,Yes,4,4,19,3,No
+EMP01375,37,Customer Support,Team Lead,Master's,Contract,29750,5,2,Yes,3,3,9,8,No
+EMP01376,53,Finance,Finance Manager,Master's,Contract,69083,8,0,Yes,2,2,8,4,No
+EMP01377,34,Sales,Sales Manager,Doctorate,Full-time,60083,8,5,No,2,3,35,4,No
+EMP01378,40,Customer Support,Team Lead,Diploma,Full-time,47416,4,0,No,2,2,58,2,No
+EMP01379,26,Engineering,QA Engineer,Bachelor's,Contract,84333,3,3,No,3,3,56,4,No
+EMP01380,30,Engineering,Engineering Manager,Doctorate,Contract,90083,10,3,No,4,2,10,1,No
+EMP01381,31,Finance,Accountant,Doctorate,Full-time,68250,12,7,No,3,2,19,2,No
+EMP01382,25,Customer Support,Support Manager,Master's,Contract,44083,5,3,No,3,4,50,5,Yes
+EMP01383,34,Human Resources,HR Manager,Doctorate,Full-time,49833,2,2,Yes,4,2,16,0,Yes
+EMP01384,44,Customer Support,Team Lead,Master's,Contract,44583,10,7,Yes,4,1,48,6,Yes
+EMP01385,50,Sales,Account Manager,Master's,Full-time,48250,2,0,Yes,1,3,41,4,Yes
+EMP01386,21,Engineering,QA Engineer,Diploma,Full-time,58583,2,0,Yes,3,3,32,8,No
+EMP01387,32,Engineering,Engineering Manager,Master's,Full-time,65166,4,3,No,2,3,43,1,No
+EMP01388,31,Human Resources,HR Manager,Doctorate,Full-time,43166,2,1,No,4,1,60,8,No
+EMP01389,44,Finance,Accountant,Doctorate,Contract,40750,1,0,No,4,2,31,2,No
+EMP01390,21,Engineering,QA Engineer,Doctorate,Contract,72500,4,3,No,3,3,39,5,No
+EMP01391,23,Engineering,Data Analyst,Diploma,Full-time,73500,4,1,Yes,4,4,23,1,No
+EMP01392,40,Finance,Financial Analyst,Doctorate,Contract,66666,6,6,No,3,4,54,7,No
+EMP01393,46,Engineering,Engineering Manager,Master's,Contract,65750,2,0,No,1,3,20,4,No
+EMP01394,28,Engineering,Software Engineer,Doctorate,Full-time,61166,1,1,No,3,4,5,2,No
+EMP01395,31,Finance,Finance Manager,Diploma,Full-time,60583,4,1,No,3,2,31,1,No
+EMP01396,21,Sales,Sales Manager,Diploma,Contract,36333,3,3,Yes,3,3,3,1,No
+EMP01397,21,Finance,Financial Analyst,Doctorate,Full-time,48833,11,4,Yes,2,3,58,1,No
+EMP01398,42,Customer Support,Team Lead,Master's,Contract,32416,3,3,No,3,3,42,1,No
+EMP01399,29,Sales,Account Manager,Bachelor's,Full-time,56916,5,4,No,3,3,22,4,No
+EMP01400,58,Human Resources,Recruiter,Bachelor's,Full-time,44083,5,4,No,3,3,33,5,No
+EMP01401,36,Engineering,QA Engineer,Bachelor's,Full-time,62583,1,1,No,1,2,27,6,No
+EMP01402,24,Sales,Account Manager,Diploma,Full-time,44166,2,2,No,4,4,31,1,No
+EMP01403,39,Human Resources,HR Manager,Master's,Contract,50000,4,4,Yes,4,2,59,2,No
+EMP01404,43,Engineering,Software Engineer,Bachelor's,Contract,61833,5,0,No,2,4,32,8,No
+EMP01405,39,Customer Support,Team Lead,Diploma,Full-time,34666,2,2,No,3,3,58,8,No
+EMP01406,51,Customer Support,Support Specialist,Diploma,Contract,45166,2,2,No,3,3,6,6,Yes
+EMP01407,37,Sales,Sales Manager,Diploma,Contract,41000,2,0,No,3,3,36,6,No
+EMP01408,26,Engineering,Data Analyst,Bachelor's,Full-time,77916,6,4,No,2,3,34,3,No
+EMP01409,35,Finance,Accountant,Doctorate,Contract,51000,1,1,No,3,2,34,7,No
+EMP01410,36,Sales,Account Manager,Diploma,Full-time,63666,5,5,No,3,3,53,6,No
+EMP01411,28,Customer Support,Support Manager,Doctorate,Full-time,32500,0,0,No,4,3,19,8,No
+EMP01412,44,Finance,Finance Manager,Master's,Full-time,53250,3,0,No,4,4,2,3,No
+EMP01413,32,Engineering,Data Analyst,Master's,Full-time,45416,2,2,Yes,4,4,7,4,No
+EMP01414,25,Customer Support,Team Lead,Diploma,Full-time,41416,6,3,No,1,3,9,7,No
+EMP01415,44,Human Resources,HR Executive,Doctorate,Full-time,41750,1,0,Yes,4,2,45,7,Yes
+EMP01416,28,Sales,Account Manager,Master's,Full-time,48166,2,1,Yes,1,3,25,5,Yes
+EMP01417,22,Finance,Finance Manager,Diploma,Full-time,64583,6,4,No,3,3,57,6,No
+EMP01418,37,Human Resources,HR Manager,Diploma,Full-time,45000,3,2,No,1,4,43,2,No
+EMP01419,37,Finance,Accountant,Diploma,Full-time,55416,0,0,Yes,1,3,43,6,No
+EMP01420,40,Engineering,Engineering Manager,Master's,Full-time,69333,0,0,No,1,3,19,0,No
+EMP01421,36,Engineering,Software Engineer,Diploma,Full-time,72833,7,4,No,4,2,33,1,No
+EMP01422,25,Customer Support,Support Specialist,Diploma,Full-time,30666,3,0,No,1,3,17,8,No
+EMP01423,44,Customer Support,Team Lead,Diploma,Full-time,39250,4,1,No,3,3,23,7,No
+EMP01424,36,Engineering,Software Engineer,Bachelor's,Full-time,70833,2,2,Yes,4,3,55,7,No
+EMP01425,24,Sales,Sales Executive,Master's,Full-time,57166,6,2,No,2,1,56,3,No
+EMP01426,36,Finance,Finance Manager,Doctorate,Full-time,46000,2,1,Yes,3,3,25,8,No
+EMP01427,40,Finance,Finance Manager,Diploma,Full-time,50666,2,1,Yes,3,4,53,0,No
+EMP01428,32,Customer Support,Support Specialist,Doctorate,Contract,41583,0,0,No,3,3,47,1,No
+EMP01429,34,Customer Support,Team Lead,Diploma,Contract,42416,4,1,No,4,2,27,6,No
+EMP01430,39,Sales,Sales Executive,Diploma,Full-time,54833,3,1,No,1,4,34,0,No
+EMP01431,48,Human Resources,HR Manager,Bachelor's,Full-time,37916,6,3,No,3,3,52,0,No
+EMP01432,29,Engineering,Engineering Manager,Master's,Contract,71250,7,1,Yes,3,3,49,8,No
+EMP01433,38,Engineering,QA Engineer,Bachelor's,Full-time,74750,6,1,Yes,1,3,26,1,No
+EMP01434,28,Engineering,Software Engineer,Master's,Full-time,84416,3,3,No,3,4,36,1,No
+EMP01435,38,Engineering,Software Engineer,Diploma,Full-time,91166,4,3,No,2,4,55,1,Yes
+EMP01436,36,Engineering,QA Engineer,Diploma,Full-time,76250,8,4,Yes,2,3,17,6,No
+EMP01437,33,Customer Support,Support Manager,Master's,Full-time,35250,4,2,Yes,4,1,32,3,No
+EMP01438,32,Engineering,Data Analyst,Doctorate,Full-time,71083,2,2,No,2,3,44,1,No
+EMP01439,44,Finance,Accountant,Bachelor's,Contract,53416,1,1,Yes,4,3,11,2,No
+EMP01440,28,Finance,Financial Analyst,Master's,Full-time,49833,4,0,No,3,2,3,1,No
+EMP01441,37,Engineering,Data Analyst,Master's,Full-time,57500,0,0,No,4,3,5,7,No
+EMP01442,27,Sales,Sales Manager,Master's,Full-time,44000,5,2,No,1,3,44,3,No
+EMP01443,34,Finance,Accountant,Bachelor's,Full-time,68583,3,0,No,3,3,27,8,No
+EMP01444,37,Finance,Financial Analyst,Master's,Full-time,55916,1,1,Yes,3,2,31,1,No
+EMP01445,42,Engineering,QA Engineer,Doctorate,Full-time,74666,3,1,No,4,2,58,3,No
+EMP01446,37,Customer Support,Support Specialist,Master's,Full-time,44000,10,10,No,1,2,57,4,No
+EMP01447,30,Human Resources,HR Executive,Doctorate,Full-time,49583,7,5,No,3,2,29,5,No
+EMP01448,21,Sales,Account Manager,Doctorate,Full-time,41333,4,3,No,2,3,26,2,No
+EMP01449,43,Engineering,QA Engineer,Diploma,Full-time,74416,2,0,Yes,2,3,7,0,Yes
+EMP01450,28,Human Resources,HR Manager,Bachelor's,Full-time,34250,2,0,No,3,2,46,4,No
+EMP01451,29,Customer Support,Team Lead,Bachelor's,Contract,36000,2,2,No,2,4,19,5,No
+EMP01452,28,Sales,Sales Executive,Bachelor's,Full-time,36750,1,0,No,2,3,14,0,Yes
+EMP01453,34,Finance,Finance Manager,Diploma,Full-time,49250,4,4,Yes,4,1,56,8,No
+EMP01454,29,Sales,Sales Manager,Master's,Full-time,40333,3,0,Yes,4,4,58,8,No
+EMP01455,31,Customer Support,Support Specialist,Bachelor's,Full-time,36916,4,3,Yes,3,4,45,3,No
+EMP01456,28,Human Resources,Recruiter,Diploma,Full-time,57166,9,1,No,1,3,47,8,No
+EMP01457,37,Human Resources,HR Executive,Doctorate,Full-time,58916,4,4,No,3,3,52,4,No
+EMP01458,44,Sales,Account Manager,Diploma,Contract,44166,2,1,No,1,4,6,2,No
+EMP01459,40,Engineering,Data Analyst,Diploma,Contract,66416,2,2,No,4,3,4,3,No
+EMP01460,42,Customer Support,Support Specialist,Diploma,Full-time,31500,3,1,Yes,2,4,27,8,No
+EMP01461,26,Finance,Finance Manager,Bachelor's,Full-time,62000,6,0,Yes,4,3,54,3,No
+EMP01462,31,Customer Support,Team Lead,Master's,Full-time,35000,0,0,No,2,1,12,5,No
+EMP01463,31,Customer Support,Support Specialist,Master's,Full-time,34833,2,1,No,3,3,48,6,No
+EMP01464,37,Human Resources,Recruiter,Doctorate,Full-time,50333,5,1,No,1,2,22,7,No
+EMP01465,47,Human Resources,HR Manager,Diploma,Full-time,35166,0,0,No,2,4,21,4,No
+EMP01466,40,Human Resources,Recruiter,Doctorate,Contract,36833,1,1,No,4,3,18,6,No
+EMP01467,42,Finance,Finance Manager,Doctorate,Full-time,57250,2,0,No,3,4,48,2,No
+EMP01468,31,Finance,Financial Analyst,Diploma,Full-time,54083,13,13,No,1,3,56,8,No
+EMP01469,32,Customer Support,Team Lead,Bachelor's,Full-time,41333,10,0,Yes,2,3,4,2,No
+EMP01470,34,Sales,Account Manager,Doctorate,Full-time,54833,3,2,Yes,2,3,48,5,No
+EMP01471,24,Customer Support,Team Lead,Bachelor's,Full-time,40083,6,5,Yes,2,3,37,7,No
+EMP01472,43,Finance,Accountant,Master's,Contract,49000,3,1,No,2,3,52,3,Yes
+EMP01473,26,Customer Support,Team Lead,Diploma,Full-time,49166,9,7,No,4,4,48,2,No
+EMP01474,40,Human Resources,Recruiter,Doctorate,Full-time,33833,1,0,No,4,4,57,2,No
+EMP01475,39,Finance,Financial Analyst,Doctorate,Full-time,59083,2,2,Yes,2,3,60,0,Yes
+EMP01476,30,Human Resources,Recruiter,Diploma,Full-time,50583,10,10,No,3,1,31,1,No
+EMP01477,25,Finance,Accountant,Master's,Full-time,75166,10,4,No,1,3,5,1,No
+EMP01478,42,Sales,Sales Executive,Diploma,Full-time,53500,2,0,No,4,2,44,3,No
+EMP01479,29,Engineering,QA Engineer,Doctorate,Full-time,85666,9,7,No,3,3,23,4,No
+EMP01480,33,Sales,Account Manager,Bachelor's,Full-time,46083,1,1,Yes,4,3,3,7,No
+EMP01481,30,Customer Support,Support Manager,Diploma,Full-time,36166,6,3,No,3,4,32,4,No
+EMP01482,28,Engineering,QA Engineer,Master's,Full-time,46750,6,4,No,2,3,19,2,No
+EMP01483,33,Human Resources,HR Manager,Diploma,Full-time,46083,3,3,Yes,4,3,11,2,No
+EMP01484,21,Finance,Finance Manager,Diploma,Full-time,57583,5,0,No,4,2,24,6,No
+EMP01485,43,Human Resources,HR Executive,Bachelor's,Contract,39166,2,2,No,3,2,29,2,No
+EMP01486,27,Human Resources,Recruiter,Diploma,Full-time,47583,3,2,No,4,3,26,0,No
+EMP01487,35,Finance,Financial Analyst,Bachelor's,Contract,64416,7,0,No,3,4,23,8,No
+EMP01488,36,Engineering,Software Engineer,Diploma,Full-time,70666,3,3,No,3,2,3,5,No
+EMP01489,33,Sales,Sales Manager,Bachelor's,Full-time,44000,1,1,No,3,2,16,1,No
+EMP01490,36,Customer Support,Support Specialist,Master's,Full-time,35666,1,0,Yes,3,3,18,5,No
+EMP01491,31,Sales,Account Manager,Diploma,Full-time,41583,4,0,Yes,3,2,10,7,No
+EMP01492,21,Engineering,Data Analyst,Master's,Full-time,53083,2,2,No,4,4,60,5,No
+EMP01493,35,Sales,Account Manager,Master's,Full-time,42500,2,2,Yes,3,2,52,3,No
+EMP01494,29,Human Resources,HR Manager,Diploma,Full-time,43666,4,3,No,4,3,6,3,No
+EMP01495,33,Sales,Sales Manager,Master's,Full-time,54333,7,1,Yes,2,3,59,0,No
+EMP01496,27,Customer Support,Support Specialist,Doctorate,Full-time,25666,0,0,No,4,3,13,5,No
+EMP01497,34,Human Resources,HR Executive,Diploma,Full-time,29083,1,1,No,1,4,47,6,No
+EMP01498,35,Sales,Account Manager,Doctorate,Full-time,56833,9,8,No,2,3,25,1,Yes
+EMP01499,37,Finance,Accountant,Doctorate,Full-time,65250,12,0,Yes,2,2,47,2,No
+EMP01500,25,Engineering,Data Analyst,Master's,Full-time,76583,9,7,Yes,3,4,1,3,No

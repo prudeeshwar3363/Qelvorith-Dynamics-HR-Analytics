@@ -19,5 +19,3 @@ The project dataset contains 1,500 synthetic employee records and 15 fields.
 | `CommuteDistanceKM` | Commute distance in kilometers | Integer |
 | `TrainingSessionsLastYear` | Training sessions attended last year | Integer |
 | `Attrition` | Whether the employee left | Text: Yes/No |
-
-Actual column types can vary depending on the CSV import process. Verify them with `DESCRIBE employees;` after importing.

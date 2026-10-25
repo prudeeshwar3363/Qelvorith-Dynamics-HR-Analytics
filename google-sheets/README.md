@@ -17,12 +17,4 @@ This folder documents the dashboard built in Google Sheets.
 
 ## Dashboard Link
 
-Replace this placeholder with a view-only link to the Google Sheets dashboard:
-
-`ADD_GOOGLE_SHEETS_LINK_HERE`
-
-Before sharing:
-1. Confirm that the sheet contains only synthetic or non-sensitive data.
-2. Set access to Viewer if you want recruiters to inspect it.
-3. Test the link in a private/incognito window.
-4. Do not publish personal, confidential, or employer-owned data.
+`https://docs.google.com/spreadsheets/d/1iiwNQFZSy5_kdObCsxUcaWEiNjznN6I5_Z2fLnRwKC4/edit?pli=1&gid=1633930731#gid=1633930731`
