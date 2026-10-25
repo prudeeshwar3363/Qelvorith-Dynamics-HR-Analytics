@@ -1,27 +1,31 @@
 # Qelvorith Dynamics — HR Analytics
 
-A portfolio case study using **MySQL** and **Google Sheets** to analyze employee attrition and communicate workforce trends.
+A portfolio project analyzing employee attrition using **MySQL** and **Google Sheets**. The goal is to turn workforce records into clear metrics, segment comparisons, and practical HR questions.
 
-> **Data notice:** This repository uses a synthetic practice dataset. Qelvorith Dynamics is a fictional company; results are illustrative and should not be interpreted as findings about a real organization.
+> **Data notice:** Qelvorith Dynamics is fictional, and the dataset is synthetic. Results are for portfolio practice only; they are not findings about a real company.
 
-## Project Overview
+## Project at a Glance
 
-The project analyzes 1,500 employee records to understand how attrition varies across departments, overtime status, job satisfaction, tenure, employment type, age groups, commute distance, training participation, performance ratings, and salary.
+- **Records analyzed:** 1,500 employees
+- **SQL:** MySQL data checks, aggregation, and segment analysis
+- **Dashboard:** Google Sheets KPI cards and charts
+- **Core question:** How does attrition differ across workforce segments?
 
-### Business Questions
+## Dashboard
 
-- What is the overall employee attrition rate?
-- Which departments have the highest attrition rates?
-- How does attrition differ by overtime status and job satisfaction?
-- Which tenure groups have higher attrition?
-- How does attrition vary by employment type, age group, and commute distance?
-- How do training participation, performance rating, and salary relate to attrition?
+![Qelvorith Dynamics HR Analytics dashboard](docs/screenshots/hr-dashboard.png)
 
-## Tools
+[Open the Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1iiwNQFZSy5_kdObCsxUcaWEiNjznN6I5_Z2fLnRwKC4/edit?pli=1&gid=1633930731#gid=1633930731)
 
-- **MySQL** — querying, aggregation, and data validation
-- **Google Sheets** — KPI summary tables and dashboard charts
-- **GitHub** — version control and project documentation
+Dashboard KPIs: total employees, employees who left, employees who stayed, and overall attrition rate. Charts compare attrition by department, overtime, job satisfaction, tenure, employment type, age group, commute distance, training sessions, and performance rating.
+
+## Tools Used
+
+| Tool | Use |
+|---|---|
+| MySQL | Data validation, calculations, grouping, and attrition analysis |
+| Google Sheets | Summary tables, KPI cards, and visual dashboard |
+| GitHub | SQL version control and project documentation |
 
 ## Key Results
 
@@ -31,101 +35,78 @@ The project analyzes 1,500 employee records to understand how attrition varies a
 | Employees who left | 183 |
 | Employees who stayed | 1,317 |
 | Overall attrition rate | 12.20% |
-| Highest department attrition | Customer Support — 13.12% |
+| Customer Support attrition | 13.12% |
+| Sales attrition | 12.93% |
 | Attrition with overtime | 16.56% |
 | Attrition without overtime | 10.09% |
-| Attrition for 0–2 years tenure | 15.75% |
+| Attrition for 0–2 years at company | 15.75% |
 | Contract employee attrition | 13.87% |
 | Full-time employee attrition | 11.63% |
 
-These are descriptive results from the synthetic dataset. Group differences show associations, not proof of cause and effect.
+All results are descriptive statistics from the synthetic dataset. Segment differences indicate associations, not proof of cause and effect.
+
+## Key Insights
+
+- **Department:** Customer Support has the highest department attrition rate in the dataset at 13.12%, followed by Sales at 12.93%.
+- **Overtime:** Attrition is 16.56% among employees marked as working overtime and 10.09% among those not marked as working overtime, a difference of 6.47 percentage points.
+- **Job satisfaction:** The attrition rate is 20.12% for satisfaction level 1 versus 7.59% for level 4.
+- **Tenure:** Employees with 0–2 years at the company have a 15.75% attrition rate, higher than the 3–5 and 6–10 year groups.
+- **Employment type:** Contract employees have a 13.87% attrition rate compared with 11.63% for full-time employees.
+- **Salary:** Average monthly salary is ₹50,750.13 among employees who left and ₹52,124.44 among those who stayed. This difference is descriptive and does not establish why employees left.
+- **Training and performance:** Attrition rates vary by training sessions and performance rating; the patterns should be investigated alongside other factors rather than interpreted as causal.
+
+## Recommendations to Explore
+
+1. Review onboarding, manager support, and check-ins for employees during their first two years.
+2. Examine overtime frequency, workload distribution, and staffing levels before concluding that overtime itself drives attrition.
+3. Collect and review feedback from employees with lower job-satisfaction scores.
+4. Investigate retention challenges in Customer Support and among contract employees.
+5. Use additional data and follow-up analysis to test these hypotheses before adopting policy changes.
 
 ## Repository Structure
 
 ```text
-Qelvorith-Dynamics-HR-Analytics/
+.
 ├── data/
-│   ├── raw/                  # Original synthetic dataset, if included
-│   └── processed/            # Cleaned/derived data, if needed
-├── sql/
-│   ├── 01_data_quality/      # Validation queries
-│   ├── 02_core_metrics/      # Overall KPI queries
-│   └── 03_segment_analysis/  # Attrition by employee segment
-├── google-sheets/
-│   └── README.md             # Dashboard link and usage notes
+│   └── employees.csv
 ├── docs/
-│   ├── screenshots/          # Dashboard and query screenshots
 │   ├── data_dictionary.md
-│   └── methodology.md
-├── reports/                  # Optional exports and findings
-├── src/                      # Optional helper scripts
+│   ├── methodology.md
+│   └── screenshots/
+│       └── hr-dashboard.png
+├── google-sheets/
+│   └── README.md
+├── sql/
+│   ├── 01_data_quality/
+│   ├── 02_core_metrics/
+│   └── 03_segment_analysis/
 ├── .gitignore
+├── LICENSE_NOTE.md
 └── README.md
 ```
 
-## How to Reproduce the SQL Analysis
+## Reproduce the Analysis
 
-1. Obtain the synthetic employee CSV from the project data source.
-2. Create a MySQL database and import the CSV into a table named `employees`.
-3. Confirm that column names and types match `docs/data_dictionary.md`.
-4. Run SQL files in this order:
-   - `sql/01_data_quality/`
-   - `sql/02_core_metrics/`
-   - `sql/03_segment_analysis/`
-5. Open the Google Sheets dashboard or use the screenshots in `docs/screenshots/`.
+1. Download or clone this repository.
+2. Create a MySQL database and import `data/employees.csv` into a table named `employees`.
+3. Check the actual imported schema against [the data dictionary](docs/data_dictionary.md). In the working analysis, `MonthlySalaryINR` is an integer/numeric field.
+4. Run the SQL files in order: `sql/01_data_quality/`, `sql/02_core_metrics/`, then `sql/03_segment_analysis/`.
+5. Compare the SQL outputs with the KPI summaries and charts in the [Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1iiwNQFZSy5_kdObCsxUcaWEiNjznN6I5_Z2fLnRwKC4/edit?pli=1&gid=1633930731#gid=1633930731).
 
-Example table import depends on your MySQL setup and CSV location; see `docs/methodology.md` for notes.
+See [Methodology and Reproduction](docs/methodology.md) for the workflow and interpretation rules.
 
-## Dashboard
+## Data Quality and Limitations
 
-Add a shareable, view-only Google Sheets link here:
-
-**Dashboard:** _Add your Google Sheets link_
-
-Place screenshots in `docs/screenshots/` and embed the main dashboard image below when available:
-
-```markdown
-![HR Analytics Dashboard](docs/screenshots/hr-dashboard.png)
-```
-
-## Key Insights
-
-- Customer Support has the highest department attrition rate in this dataset (13.12%).
-- Employees recorded as working overtime have a 16.56% attrition rate versus 10.09% for those not working overtime.
-- The 0–2 year tenure group has a 15.75% attrition rate.
-- Job satisfaction level 1 has a 20.12% attrition rate; level 4 has 7.59%.
-- Contract employees have a 13.87% attrition rate versus 11.63% for full-time employees.
-- Commute groups over 5 km show higher attrition rates than the 0–5 km group in these records.
-
-## Recommendations
-
-- Investigate onboarding and manager support for employees in their first two years.
-- Review overtime frequency, workload allocation, and staffing levels.
-- Gather employee feedback about low satisfaction scores.
-- Review Customer Support staffing and exit feedback.
-- Investigate differences in contract employee experience.
-- Treat commute support and flexible scheduling as hypotheses to evaluate, not proven solutions.
-
-## Limitations
-
-- The dataset is synthetic and intended for practice.
-- This analysis is descriptive; it does not prove causation.
-- The age 55+ group contains only 10 employees, so its attrition rate is unstable.
-- The training-session pattern is not monotonic.
-- ROI values, if used, are scenario assumptions and not measured savings.
+- The current validation script checks row count, distinct employee IDs, null values in selected key fields, column types, and attrition labels. It is not a full audit of every field.
+- The dataset is synthetic and does not represent a real employer or employee population.
+- The analysis is descriptive and does not demonstrate causality.
+- Small segment counts can produce unstable percentages; interpret those groups cautiously.
+- The training-session pattern is not monotonic, so more sessions should not automatically be interpreted as lower attrition.
+- Recommendations are hypotheses to investigate, not proven interventions or measured savings.
 
 ## Future Improvements
 
-- Add time-based employee snapshots for monthly or annual trend analysis.
-- Add exit reasons and authorized employee feedback.
-- Add filters/slicers to the dashboard.
-- Test relationships among multiple variables and, if appropriate, conduct statistical tests.
-- Replace illustrative ROI assumptions with validated costs and benefits.
-
-## Author
-
-Add your name, LinkedIn profile, and contact details here if you want them public.
-
-## License
-
-Choose a license before publishing. If you do not want others to reuse the work, omit a license file and review GitHub's default repository terms.
+- Add comprehensive checks for missing values, duplicate IDs, valid categories, and out-of-range values.
+- Add dashboard filters and more explicit segment counts beside rates.
+- Extend the analysis with statistical tests or multivariable models where appropriate.
+- Add time-based snapshots and validated exit reasons if suitable data becomes available.
